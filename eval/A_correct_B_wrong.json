@@ -1,0 +1,322 @@
+[
+  {
+    "case_id": "TCGA-A1-A0SF-01Z-00-DX1.7F252D89-EA78-419F-A969-1B7313D77499_521f2cd1",
+    "long_id": "TCGA-A1-A0SF-01Z-00-DX1.7F252D89-EA78-419F-A969-1B7313D77499",
+    "question": "what is the result of her2/neu testing?",
+    "ground_truth": "not provided",
+    "choices": [
+      "positive",
+      "negative",
+      "inconclusive",
+      "not provided"
+    ],
+    "A_file": "TCGA-A1-A0SF-01Z-00-DX1.7F252D89-EA78-419F-A969-1B7313D77499_521f2cd1.json",
+    "A_pred": "not provided",
+    "A_correct": true,
+    "A_explanation": "The slide contains normal adipose tissue with no evidence of HER2/neu expression. HER2/neu testing is not indicated in this context as the tissue is benign and does not show any features requiring further biomarker testing.",
+    "B_file": "TCGA-A1-A0SF-01Z-00-DX1.7F252D89-EA78-419F-A969-1B7313D77499_521f2cd1.json",
+    "B_pred": "positive",
+    "B_correct": false,
+    "B_explanation": "The image shows strong, complete membranous staining in tumor cells, consistent with HER2 overexpression, meeting criteria for a positive result."
+  },
+  {
+    "case_id": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3_7de41e6a",
+    "long_id": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3",
+    "question": "what is the size of the tumor?",
+    "ground_truth": "6 cm",
+    "choices": [
+      "2 cm",
+      "4 cm",
+      "6 cm",
+      "8 cm"
+    ],
+    "A_file": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3_7de41e6a.json",
+    "A_pred": "6 cm",
+    "A_correct": true,
+    "A_explanation": "The tumor measures 6 cm in greatest dimension, which is within the provided size range. The image shows a well-circumscribed mass with uniform cellular architecture and no evidence of necrosis or hemorrhage, consistent with a benign lesion. The size aligns with the documented range and visual assessment.",
+    "B_file": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3_7de41e6a.json",
+    "B_pred": "2 cm",
+    "B_correct": false,
+    "B_explanation": "The tumor measures 2 cm at 20x magnification, with well-defined borders, uniform cellular arrangement, and no evidence of necrosis or infiltrative growth, consistent with a benign or low-grade neoplasm."
+  },
+  {
+    "case_id": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3_a301cb1c",
+    "long_id": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3",
+    "question": "what type of breast cancer does the patient have?",
+    "ground_truth": "invasive ductal carcinoma",
+    "choices": [
+      "ductal carcinoma in situ",
+      "lobular carcinoma in situ",
+      "invasive ductal carcinoma",
+      "invasive lobular carcinoma"
+    ],
+    "A_file": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3_a301cb1c.json",
+    "A_pred": "invasive ductal carcinoma",
+    "A_correct": true,
+    "A_explanation": "The image shows infiltrative growth of glandular structures into the stroma, nuclear atypia, and desmoplastic stromal reaction, all consistent with invasive ductal carcinoma. The absence of inflammatory infiltrates or single-file cell patterns excludes inflammatory carcinoma and lobular carcinoma, respectively.",
+    "B_file": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3_a301cb1c.json",
+    "B_pred": "invasive lobular carcinoma",
+    "B_correct": false,
+    "B_explanation": "The image shows infiltrating tumor cells arranged in single-file patterns with mild nuclear atypia and stromal invasion, distinguishing it from ductal carcinoma. The absence of ductal structures and low mitotic activity further support this diagnosis."
+  },
+  {
+    "case_id": "TCGA-A8-A097-01Z-00-DX1.4D06990E-E759-40F0-9106-59408CF350E5_7de41e6a",
+    "long_id": "TCGA-A8-A097-01Z-00-DX1.4D06990E-E759-40F0-9106-59408CF350E5",
+    "question": "what is the size of the tumor?",
+    "ground_truth": "2.8 cm",
+    "choices": [
+      "3.1 cm",
+      "2.8 cm",
+      "1.5 cm",
+      "5.2 cm"
+    ],
+    "A_file": "TCGA-A8-A097-01Z-00-DX1.4D06990E-E759-40F0-9106-59408CF350E5_7de41e6a.json",
+    "A_pred": "A",
+    "A_correct": true,
+    "A_explanation": "The tumor size is explicitly stated in the image description as 3.1 cm, and the lesion is well-circumscribed with no signs of necrosis or infiltration, consistent with a benign tumor.",
+    "B_file": "TCGA-A8-A097-01Z-00-DX1.4D06990E-E759-40F0-9106-59408CF350E5_7de41e6a.json",
+    "B_pred": "3.1 cm",
+    "B_correct": false,
+    "B_explanation": "The tumor measures 3.1 cm in diameter, as indicated by the high cellular density, nuclear pleomorphism, and sheet-like growth pattern observed in the image, which are characteristic of malignant neoplasms. The size falls within the typical range for carcinomas, as referenced in standard pathological databases."
+  },
+  {
+    "case_id": "TCGA-A8-A09Q-01Z-00-DX1.C7240AFB-5971-4577-812C-A255C249001A_ad6110bb",
+    "long_id": "TCGA-A8-A09Q-01Z-00-DX1.C7240AFB-5971-4577-812C-A255C249001A",
+    "question": "which breast tissue is affected by fibrolipomatous changes?",
+    "ground_truth": "rest of the breast tissue",
+    "choices": [
+      "tumor",
+      "surrounding skin",
+      "axillary lymph nodes",
+      "rest of the breast tissue"
+    ],
+    "A_file": "TCGA-A8-A09Q-01Z-00-DX1.C7240AFB-5971-4577-812C-A255C249001A_ad6110bb.json",
+    "A_pred": "A",
+    "A_correct": true,
+    "A_explanation": "The fibrolipomatous changes are localized to the axillary lymph node, as indicated by the patch coordinates. The image shows fibrous and adipose tissue proliferation within the lymph node, which is a benign reactive process. The surrounding breast tissue remains uninvolved, and there is no evidence of tumor infiltration or other pathological features in the breast tissue.",
+    "B_file": "TCGA-A8-A09Q-01Z-00-DX1.C7240AFB-5971-4577-812C-A255C249001A_ad6110bb.json",
+    "B_pred": "axillary lymph nodes",
+    "B_correct": false,
+    "B_explanation": "The patch descriptions indicate fibrolipomatous changes are localized to the axillary lymph nodes, as evidenced by the presence of adipose tissue and fibrous stroma within the lymph node capsule, with no involvement of surrounding breast tissue or other areas."
+  },
+  {
+    "case_id": "TCGA-AC-A2FG-01Z-00-DX1.0F13DE40-9F7A-42C6-AB3D-02E8521B690A_7de41e6a",
+    "long_id": "TCGA-AC-A2FG-01Z-00-DX1.0F13DE40-9F7A-42C6-AB3D-02E8521B690A",
+    "question": "what is the size of the tumor?",
+    "ground_truth": "2.1 cm",
+    "choices": [
+      "0.8 cm",
+      "1.5 cm",
+      "2.1 cm",
+      "2.8 cm"
+    ],
+    "A_file": "TCGA-AC-A2FG-01Z-00-DX1.0F13DE40-9F7A-42C6-AB3D-02E8521B690A_7de41e6a.json",
+    "A_pred": "2.1 cm",
+    "A_correct": true,
+    "A_explanation": "The tumor size is explicitly stated in the image description as 2.1 cm, and the lesion is well-circumscribed with no signs of necrosis or infiltration, consistent with a benign tumor.",
+    "B_file": "TCGA-AC-A2FG-01Z-00-DX1.0F13DE40-9F7A-42C6-AB3D-02E8521B690A_7de41e6a.json",
+    "B_pred": "2.8 cm",
+    "B_correct": false,
+    "B_explanation": "The tumor is described as well-defined and encapsulated, with no signs of invasion or inflammation. The size is directly measured as 2.8 cm, which matches one of the provided choices."
+  },
+  {
+    "case_id": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1_4eb66198",
+    "long_id": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1",
+    "question": "are the surgical margins positive or negative?",
+    "ground_truth": "negative",
+    "choices": [
+      "negative",
+      "positive",
+      "indeterminate",
+      "not mentioned in the slide"
+    ],
+    "A_file": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1_4eb66198.json",
+    "A_pred": "negative",
+    "A_correct": true,
+    "A_explanation": "The whole-slide pathology morphology does not show evidence of cancer at the final surgical margins. The patches describe normal and benign tissues with no malignant features at the margins.",
+    "B_file": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1_4eb66198.json",
+    "B_pred": "positive",
+    "B_correct": false,
+    "B_explanation": "The surgical margins are positive as tumor cells are directly adjacent to the inked margin without intervening normal tissue, confirmed by nuclear atypia and architectural disruption."
+  },
+  {
+    "case_id": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1_e84c1a7c",
+    "long_id": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1",
+    "question": "what is the tnm stage of the cancer?",
+    "ground_truth": "t3n(mi)",
+    "choices": [
+      "t3n(mi)",
+      "t2n0",
+      "t1n1",
+      "t4n3"
+    ],
+    "A_file": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1_e84c1a7c.json",
+    "A_pred": "t3nmi",
+    "A_correct": true,
+    "A_explanation": "The slide shows evidence of tumor invasion into the renal sinus (t3) and no lymph node involvement (nmi), consistent with the staging criteria.",
+    "B_file": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1_e84c1a7c.json",
+    "B_pred": "t2n0",
+    "B_correct": false,
+    "B_explanation": "The slide shows invasive carcinoma with stromal invasion but no lymph node involvement (n0) and confinement to the breast tissue, aligning with t2n0 staging."
+  },
+  {
+    "case_id": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D_98e46ee5",
+    "long_id": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D",
+    "question": "what is the patient's cancer grade?",
+    "ground_truth": "2",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "A_file": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D_98e46ee5.json",
+    "A_pred": "2",
+    "A_correct": true,
+    "A_explanation": "The slide shows a neuroendocrine tumor with moderate nuclear atypia, focal stromal desmoplasia, and 2-3 mitotic figures per high-power field, consistent with intermediate-grade (Grade 2) breast carcinoma.",
+    "B_file": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D_98e46ee5.json",
+    "B_pred": "4",
+    "B_correct": false,
+    "B_explanation": "The slide shows fused, poorly formed glands with nuclear enlargement and prominent nucleoli, consistent with Gleason pattern 4, which directly indicates the cancer grade."
+  },
+  {
+    "case_id": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D_f6a86682",
+    "long_id": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D",
+    "question": "what is the tumor stage?",
+    "ground_truth": "2",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "A_file": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D_f6a86682.json",
+    "A_pred": "2",
+    "A_correct": true,
+    "A_explanation": "The tumor stage is determined by the presence of nuclear pleomorphism, atypical mitotic figures, and infiltrative growth, which are consistent with invasive carcinoma. These features indicate progression to a more advanced stage of malignancy.",
+    "B_file": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D_f6a86682.json",
+    "B_pred": "1",
+    "B_correct": false,
+    "B_explanation": "The tumor is classified as stage 1 based on the presence of a lymphocyte-rich background with sparse thymic epithelial cells (<10% of cellular population), preserved lobular architecture, and absence of necrosis or stromal invasion."
+  },
+  {
+    "case_id": "TCGA-AO-A0J9-01Z-00-DX1.E37C342B-9B6A-4BEE-B064-A82C3579CC66_33e255f2",
+    "long_id": "TCGA-AO-A0J9-01Z-00-DX1.E37C342B-9B6A-4BEE-B064-A82C3579CC66",
+    "question": "what are the recommendations for further evaluation and staging?",
+    "ground_truth": "perform hormone receptor and her2 testing",
+    "choices": [
+      "perform hormone receptor and her2 testing",
+      "perform additional tests for vascular invasion",
+      "perform additional tests for benign breast parenchymal changes",
+      "perform additional tests for scar measurement"
+    ],
+    "A_file": "TCGA-AO-A0J9-01Z-00-DX1.E37C342B-9B6A-4BEE-B064-A82C3579CC66_33e255f2.json",
+    "A_pred": "A",
+    "A_correct": true,
+    "A_explanation": "The slide shows invasive carcinoma with infiltrative growth into breast parenchyma and fat, confirming malignancy. Hormone receptor and HER2 testing are critical for treatment planning, while vascular invasion testing is less urgent here. Scar measurement is irrelevant, and benign parenchymal changes are not applicable to this malignant lesion.",
+    "B_file": "TCGA-AO-A0J9-01Z-00-DX1.E37C342B-9B6A-4BEE-B064-A82C3579CC66_33e255f2.json",
+    "B_pred": "perform additional tests for vascular invasion",
+    "B_correct": false,
+    "B_explanation": "The image shows invasive carcinoma with infiltrative growth into breast parenchyma and adipose tissue, which suggests the need to evaluate vascular invasion to assess the extent of the disease and guide further treatment decisions."
+  },
+  {
+    "case_id": "TCGA-AR-A24S-01Z-00-DX1.317C3B19-0D0F-4315-AC2D-C741F09DD775_f44b5bed",
+    "long_id": "TCGA-AR-A24S-01Z-00-DX1.317C3B19-0D0F-4315-AC2D-C741F09DD775",
+    "question": "what type of breast tissue changes were observed?",
+    "ground_truth": "no observable changes",
+    "choices": [
+      "nonproliferative fibrocystic changes",
+      "proliferative fibrocystic changes",
+      "epithelial hyperplasia",
+      "no observable changes"
+    ],
+    "A_file": "TCGA-AR-A24S-01Z-00-DX1.317C3B19-0D0F-4315-AC2D-C741F09DD775_f44b5bed.json",
+    "A_pred": "B",
+    "A_correct": true,
+    "A_explanation": "The slide shows proliferative fibrocystic changes with disrupted glandular structures, irregular epithelial proliferation, and stromal fibrosis. These features are consistent with proliferative fibrocystic changes, which involve increased cellular activity and architectural distortion, distinguishing them from nonproliferative changes.",
+    "B_file": "TCGA-AR-A24S-01Z-00-DX1.317C3B19-0D0F-4315-AC2D-C741F09DD775_f44b5bed.json",
+    "B_pred": "nonproliferative fibrocystic changes",
+    "B_correct": false,
+    "B_explanation": "The slide shows disrupted glandular structures with irregular epithelial arrangements and stromal fibrosis, consistent with nonproliferative fibrocystic changes. There is no evidence of epithelial hyperplasia or nuclear atypia, which are features of proliferative fibrocystic changes or malignancy."
+  },
+  {
+    "case_id": "TCGA-B6-A0IA-01Z-00-DX1.8A868F0A-6CE2-46A7-AF0C-C5FC5D657D86_0b817257",
+    "long_id": "TCGA-B6-A0IA-01Z-00-DX1.8A868F0A-6CE2-46A7-AF0C-C5FC5D657D86",
+    "question": "was there any residual carcinoma in the previous biopsy site?",
+    "ground_truth": "no",
+    "choices": [
+      "no",
+      "yes",
+      "not mentioned",
+      "none of the above"
+    ],
+    "A_file": "TCGA-B6-A0IA-01Z-00-DX1.8A868F0A-6CE2-46A7-AF0C-C5FC5D657D86_0b817257.json",
+    "A_pred": "no",
+    "A_correct": true,
+    "A_explanation": "The slide shows no residual carcinoma in the previous biopsy site. There is no evidence of malignant cells, nuclear atypia, mitotic activity, or infiltrative growth patterns. The tissue architecture is organized and consistent with complete excision and no recurrence.",
+    "B_file": "TCGA-B6-A0IA-01Z-00-DX1.8A868F0A-6CE2-46A7-AF0C-C5FC5D657D86_0b817257.json",
+    "B_pred": "yes",
+    "B_correct": false,
+    "B_explanation": "The image shows a fibrotic scar with no evidence of nuclear atypia, mitotic activity, or infiltrative growth patterns. The fibrous stroma appears organized and lacks the disorganized architecture typical of malignancy. These features, combined with the patient’s history of radiation therapy, are consistent with post-treatment changes rather than active malignancy."
+  },
+  {
+    "case_id": "TCGA-C8-A1HJ-01Z-00-DX1.745159F1-85E7-4CC0-B088-E1CA91916FB8_ce221dda",
+    "long_id": "TCGA-C8-A1HJ-01Z-00-DX1.745159F1-85E7-4CC0-B088-E1CA91916FB8",
+    "question": "what is the performance scale of the patient?",
+    "ground_truth": "pain",
+    "choices": [
+      "symptomatic, in bed less than 50% of the day",
+      "breast tumor",
+      "lump in the breast",
+      "pain"
+    ],
+    "A_file": "TCGA-C8-A1HJ-01Z-00-DX1.745159F1-85E7-4CC0-B088-E1CA91916FB8_ce221dda.json",
+    "A_pred": "A",
+    "A_correct": true,
+    "A_explanation": "The image shows a breast tumor with a well-circumscribed mass and a pushing border, consistent with a benign lesion. The clinical symptoms (symptomatic, in bed less than 50% of the day) and the presence of a breast lump and pain align with a slow-growing tumor.",
+    "B_file": "TCGA-C8-A1HJ-01Z-00-DX1.745159F1-85E7-4CC0-B088-E1CA91916FB8_ce221dda.json",
+    "B_pred": "symptomatic, in bed less than 50% of the day",
+    "B_correct": false,
+    "B_explanation": "The slide descriptions mention a well-circumscribed tumor in the breast with a pushing border and no infiltrative growth, consistent with a benign process. The clinical context aligns with a symptomatic breast tumor, and the absence of pain suggests a non-inflammatory process, supporting the 'symptomatic, in bed less than 50% of the day' category."
+  },
+  {
+    "case_id": "TCGA-D8-A13Z-01Z-00-DX1.517140BB-D34C-42F8-952C-340EF16D382F_143f2370",
+    "long_id": "TCGA-D8-A13Z-01Z-00-DX1.517140BB-D34C-42F8-952C-340EF16D382F",
+    "question": "what size was the second tumor?",
+    "ground_truth": "1.1*1.3 cm",
+    "choices": [
+      "1.1*1.2 cm",
+      "1.1*1.3 cm",
+      "1.2*1.2 cm",
+      "1.2*1.3 cm"
+    ],
+    "A_file": "TCGA-D8-A13Z-01Z-00-DX1.517140BB-D34C-42F8-952C-340EF16D382F_143f2370.json",
+    "A_pred": "A",
+    "A_correct": true,
+    "A_explanation": "The second tumor measured 1.1*1.2 cm based on the slide-level observations and the provided choices.",
+    "B_file": "TCGA-D8-A13Z-01Z-00-DX1.517140BB-D34C-42F8-952C-340EF16D382F_143f2370.json",
+    "B_pred": "1.1*1.2 cm",
+    "B_correct": false,
+    "B_explanation": "The tumor size is explicitly stated in the image as 1.1*1.2 cm, which matches one of the provided choices."
+  },
+  {
+    "case_id": "TCGA-D8-A13Z-01Z-00-DX1.517140BB-D34C-42F8-952C-340EF16D382F_755e1d23",
+    "long_id": "TCGA-D8-A13Z-01Z-00-DX1.517140BB-D34C-42F8-952C-340EF16D382F",
+    "question": "what was the reaction of the her2 protein?",
+    "ground_truth": "negative",
+    "choices": [
+      "positive",
+      "negative",
+      "inconclusive",
+      "not tested"
+    ],
+    "A_file": "TCGA-D8-A13Z-01Z-00-DX1.517140BB-D34C-42F8-952C-340EF16D382F_755e1d23.json",
+    "A_pred": "negative",
+    "A_correct": true,
+    "A_explanation": "The slide-level descriptions do not mention any Her2 protein reaction. The absence of any staining or expression of Her2 protein is consistent with a negative result.",
+    "B_file": "TCGA-D8-A13Z-01Z-00-DX1.517140BB-D34C-42F8-952C-340EF16D382F_755e1d23.json",
+    "B_pred": "not tested",
+    "B_correct": false,
+    "B_explanation": "The provided descriptions do not mention any immunohistochemical testing for Her2 protein. The images show various tissue types but do not indicate any staining or evaluation for Her2 expression."
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "case_id": "TCGA-A1-A0SF-01Z-00-DX1.7F252D89-EA78-419F-A969-1B7313D77499_667987e0",
+    "long_id": "TCGA-A1-A0SF-01Z-00-DX1.7F252D89-EA78-419F-A969-1B7313D77499",
+    "question": "what is the pathological finding in the soft tissue in the breast?",
+    "ground_truth": "benign breast tissue",
+    "choices": [
+      "infiltrating ductal carcinoma",
+      "benign breast tissue",
+      "microcalcifications associated with benign ducts and stroma",
+      "non-proliferative fibrocystic change"
+    ],
+    "A_file": "TCGA-A1-A0SF-01Z-00-DX1.7F252D89-EA78-419F-A969-1B7313D77499_667987e0.json",
+    "A_pred": "infiltrating ductal carcinoma",
+    "A_correct": false,
+    "A_explanation": "The slide shows infiltrating cells with nuclear atypia and stromal invasion, consistent with infiltrating ductal carcinoma. Other options are excluded due to the absence of benign features, microcalcifications, or non-proliferative changes.",
+    "B_file": "TCGA-A1-A0SF-01Z-00-DX1.7F252D89-EA78-419F-A969-1B7313D77499_667987e0.json",
+    "B_pred": "benign breast tissue",
+    "B_correct": true,
+    "B_explanation": "The slide shows normal breast stroma with intact adipose tissue, nerve bundles with perineurium, and uniform adipocytes. There are no pathological features such as infiltrating ducts, nuclear atypia, or stromal abnormalities. The presence of nerves and blood vessels within the septa is a normal anatomical feature of breast tissue."
+  },
+  {
+    "case_id": "TCGA-A2-A0CK-01Z-00-DX1.C3226BD1-11B0-4034-946A-BAB42958CE85_0c96f341",
+    "long_id": "TCGA-A2-A0CK-01Z-00-DX1.C3226BD1-11B0-4034-946A-BAB42958CE85",
+    "question": "what was the result of the er/pr immunostains?",
+    "ground_truth": "negative",
+    "choices": [
+      "positive",
+      "negative",
+      "inconclusive",
+      "not tested"
+    ],
+    "A_file": "TCGA-A2-A0CK-01Z-00-DX1.C3226BD1-11B0-4034-946A-BAB42958CE85_0c96f341.json",
+    "A_pred": "not tested",
+    "A_correct": false,
+    "A_explanation": "The slide does not show any evidence of ER/PR immunostains or their results. The tissue is normal adipose tissue with no pathological features requiring hormone receptor testing.",
+    "B_file": "TCGA-A2-A0CK-01Z-00-DX1.C3226BD1-11B0-4034-946A-BAB42958CE85_0c96f341.json",
+    "B_pred": "negative",
+    "B_correct": true,
+    "B_explanation": "The ER/PR immunostains were negative, as indicated by the clinical note and the slide findings of benign breast tissue with fibrocystic changes and calcifications, which are consistent with non-neoplastic processes."
+  },
+  {
+    "case_id": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3_96da94e0",
+    "long_id": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3",
+    "question": "how far has the tumor invaded?",
+    "ground_truth": "lymph vessels, up to the base of the nipple, and pectoral muscle",
+    "choices": [
+      "lymph vessels only",
+      "up to the base of the nipple",
+      "pectoral muscle only",
+      "lymph vessels, up to the base of the nipple, and pectoral muscle"
+    ],
+    "A_file": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3_96da94e0.json",
+    "A_pred": "up to the base of the nipple",
+    "A_correct": false,
+    "A_explanation": "The tumor cells are present at the base of the nipple, as evidenced by their extension into the stroma surrounding the nipple. There is no evidence of invasion into the pectoral muscle or lymph vessels, which aligns with the choice 'up to the base of the nipple'.",
+    "B_file": "TCGA-A8-A08L-01Z-00-DX1.0FC652B1-336D-4198-93FE-58D2214866D3_96da94e0.json",
+    "B_pred": "D",
+    "B_correct": true,
+    "B_explanation": "The slide shows tumor invasion into lymph vessels, up to the base of the nipple, and pectoral muscle, which matches the description in option D."
+  },
+  {
+    "case_id": "TCGA-A8-A08R-01Z-00-DX1.72FBD9A3-5EB9-4855-89EB-697883C2EA9B_643a9873",
+    "long_id": "TCGA-A8-A08R-01Z-00-DX1.72FBD9A3-5EB9-4855-89EB-697883C2EA9B",
+    "question": "what is the tumor diameter in the breast?",
+    "ground_truth": "4 cm",
+    "choices": [
+      "2 cm",
+      "3 cm",
+      "4 cm",
+      "5 cm"
+    ],
+    "A_file": "TCGA-A8-A08R-01Z-00-DX1.72FBD9A3-5EB9-4855-89EB-697883C2EA9B_643a9873.json",
+    "A_pred": "3 cm",
+    "A_correct": false,
+    "A_explanation": "The larger tumor in the image measures 3 cm, as indicated by the observed size and the context of the slide-level description. This measurement aligns with the provided choices and is supported by the visible tumor dimensions in the image.",
+    "B_file": "TCGA-A8-A08R-01Z-00-DX1.72FBD9A3-5EB9-4855-89EB-697883C2EA9B_643a9873.json",
+    "B_pred": "4 cm",
+    "B_correct": true,
+    "B_explanation": "The tumor diameter is measured as 4 cm based on the gross specimen in the image, which shows a well-circumscribed mass with irregular borders and adjacent adipose tissue infiltration. This measurement exceeds the 2 cm threshold, confirming the diagnosis of invasive breast carcinoma."
+  },
+  {
+    "case_id": "TCGA-A8-A08Z-01Z-00-DX1.D0AADCA6-C27C-4FB8-89C1-94B5901146E7_12058b59",
+    "long_id": "TCGA-A8-A08Z-01Z-00-DX1.D0AADCA6-C27C-4FB8-89C1-94B5901146E7",
+    "question": "what is the classification of the tumor?",
+    "ground_truth": "nos, g ii, pt4bn3al1voro",
+    "choices": [
+      "nos, g ii, pt4bn3al1voro",
+      "nos, g i, pt2n0m0",
+      "nos, g iii, pt3an1m0",
+      "nos, g iv, pt4an2m0"
+    ],
+    "A_file": "TCGA-A8-A08Z-01Z-00-DX1.D0AADCA6-C27C-4FB8-89C1-94B5901146E7_12058b59.json",
+    "A_pred": "nos, g iii, pt3an1m0",
+    "A_correct": false,
+    "A_explanation": "The tumor is classified as nos (no special type), grade III (highly differentiated), pT3 (invasion into the muscularis propria), with regional lymph node involvement (an1) and no distant metastasis (m0). These features are supported by the presence of high-grade nuclear atypia, mitotic activity, and infiltration into the muscularis propria, consistent with a poorly differentiated tumor.",
+    "B_file": "TCGA-A8-A08Z-01Z-00-DX1.D0AADCA6-C27C-4FB8-89C1-94B5901146E7_12058b59.json",
+    "B_pred": "A",
+    "B_correct": true,
+    "B_explanation": "The tumor is classified as nos, g ii, pt4bn3al1voro based on the presence of vascular invasion (voro), moderate nuclear grade (g ii), and advanced stage (pt4). The features observed in the image support this classification."
+  },
+  {
+    "case_id": "TCGA-A8-A09Q-01Z-00-DX1.C7240AFB-5971-4577-812C-A255C249001A_19453ef7",
+    "long_id": "TCGA-A8-A09Q-01Z-00-DX1.C7240AFB-5971-4577-812C-A255C249001A",
+    "question": "what is the grade of differentiation of the tumor mentioned in the slide?",
+    "ground_truth": "grade 3",
+    "choices": [
+      "grade 1",
+      "grade 2",
+      "grade 3",
+      "grade 4"
+    ],
+    "A_file": "TCGA-A8-A09Q-01Z-00-DX1.C7240AFB-5971-4577-812C-A255C249001A_19453ef7.json",
+    "A_pred": "grade 2",
+    "A_correct": false,
+    "A_explanation": "The tumor shows moderate nuclear atypia, intermediate mitotic activity, and partial gland formation, consistent with moderate differentiation. These features align with grade 2 criteria, as grade 1 would show minimal atypia and rare mitoses, while grade 3 exhibits marked pleomorphism and frequent mitoses.",
+    "B_file": "TCGA-A8-A09Q-01Z-00-DX1.C7240AFB-5971-4577-812C-A255C249001A_19453ef7.json",
+    "B_pred": "grade 3",
+    "B_correct": true,
+    "B_explanation": "The tumor exhibits poorly differentiated cells with marked nuclear pleomorphism, frequent mitotic figures, and loss of architectural organization, all characteristic of high-grade malignancy."
+  },
+  {
+    "case_id": "TCGA-AC-A2FF-01Z-00-DX1.012DAC86-E05C-44FA-81C2-FE4C754F409C_dd0bae85",
+    "long_id": "TCGA-AC-A2FF-01Z-00-DX1.012DAC86-E05C-44FA-81C2-FE4C754F409C",
+    "question": "what type of node was involved in the metastatic carcinoma?",
+    "ground_truth": "sentinel lymph node",
+    "choices": [
+      "sentinel lymph node",
+      "axillary lymph node",
+      "inguinal lymph node",
+      "paraaortic lymph node"
+    ],
+    "A_file": "TCGA-AC-A2FF-01Z-00-DX1.012DAC86-E05C-44FA-81C2-FE4C754F409C_dd0bae85.json",
+    "A_pred": "inguinal lymph node",
+    "A_correct": false,
+    "A_explanation": "The slide shows metastatic carcinoma with nuclear atypia and disruption of lymph node architecture, consistent with metastatic spread. The clinical context of breast cancer metastasis and the anatomical location of the inguinal lymph node support this diagnosis.",
+    "B_file": "TCGA-AC-A2FF-01Z-00-DX1.012DAC86-E05C-44FA-81C2-FE4C754F409C_dd0bae85.json",
+    "B_pred": "sentinel lymph node",
+    "B_correct": true,
+    "B_explanation": "The image shows metastatic carcinoma with nuclear atypia and disrupted lymph node architecture, consistent with a sentinel lymph node biopsy. The clinical context of breast cancer staging and the presence of tumor cells in the lymph node parenchyma support this conclusion."
+  },
+  {
+    "case_id": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1_600c024b",
+    "long_id": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1",
+    "question": "what is the grade of the cancer according to the bloom-richardson grading system?",
+    "ground_truth": "grade ii",
+    "choices": [
+      "grade ii",
+      "grade i",
+      "grade iii",
+      "grade iv"
+    ],
+    "A_file": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1_600c024b.json",
+    "A_pred": "grade iii",
+    "A_correct": false,
+    "A_explanation": "The slide shows a malignant tumor with marked nuclear pleomorphism, high mitotic activity, and invasive growth, consistent with the modified Bloom-Richardson grading system criteria for high-grade malignancy.",
+    "B_file": "TCGA-AC-A3TM-01Z-00-DX1.4421EE37-A2CC-4638-AC44-9C26CB09FDC1_600c024b.json",
+    "B_pred": "grade ii",
+    "B_correct": true,
+    "B_explanation": "The tumor demonstrates moderate nuclear atypia, focal necrosis, and a mitotic count of 5-9 per 10 high-power fields, consistent with Bloom-Richardson grade II criteria. These features exclude higher grades (III/IV) and confirm moderate differentiation."
+  },
+  {
+    "case_id": "TCGA-AN-A0XS-01Z-00-DX1.B4D4B73E-2912-4B2E-B18A-FBC35F8160D3_84ed3bc1",
+    "long_id": "TCGA-AN-A0XS-01Z-00-DX1.B4D4B73E-2912-4B2E-B18A-FBC35F8160D3",
+    "question": "what is the stage of the tumor?",
+    "ground_truth": "t1n0m0",
+    "choices": [
+      "t1n0m0",
+      "t2n1m0",
+      "t3n1m1",
+      "t4n2m1"
+    ],
+    "A_file": "TCGA-AN-A0XS-01Z-00-DX1.B4D4B73E-2912-4B2E-B18A-FBC35F8160D3_84ed3bc1.json",
+    "A_pred": "t2n1m0",
+    "A_correct": false,
+    "A_explanation": "The tumor exhibits features of moderate invasion into the stroma with some architectural disruption, consistent with stage 2. The presence of nuclear atypia and mitotic figures supports a higher grade, but no evidence of distant metastasis or extensive local invasion rules out stage 3 or 4.",
+    "B_file": "TCGA-AN-A0XS-01Z-00-DX1.B4D4B73E-2912-4B2E-B18A-FBC35F8160D3_84ed3bc1.json",
+    "B_pred": "t1n0m0",
+    "B_correct": true,
+    "B_explanation": "The tumor is confined to the breast parenchyma with invasive ductal carcinoma cells showing nuclear atypia and desmoplastic stroma, but no evidence of lymphovascular invasion, metastasis, or nodal involvement, consistent with t1n0m0 staging."
+  },
+  {
+    "case_id": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D_d8f29b08",
+    "long_id": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D",
+    "question": "what is the patient's treatment status?",
+    "ground_truth": "no treatment",
+    "choices": [
+      "undergoing chemotherapy",
+      "undergoing radiation therapy",
+      "no treatment",
+      "not specified"
+    ],
+    "A_file": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D_d8f29b08.json",
+    "A_pred": "undergoing chemotherapy",
+    "A_correct": false,
+    "A_explanation": "The slide shows treatment-related pathological features, including nuclear pyknosis, cellular shrinkage, and disrupted tissue architecture, which are consistent with chemotherapy effects.",
+    "B_file": "TCGA-AN-A0XW-01Z-00-DX1.811E11E7-FA67-46BB-9BC6-1FD0106B789D_d8f29b08.json",
+    "B_pred": "no treatment",
+    "B_correct": true,
+    "B_explanation": "The slide descriptions focus on inflammatory cells, plasma cells, and macrophages, indicating a chronic inflammatory process. There is no mention of chemotherapy or radiation therapy-related changes, and the absence of treatment-related morphological features suggests the patient is not currently undergoing treatment."
+  },
+  {
+    "case_id": "TCGA-BH-A5IZ-01Z-00-DX1.6C871030-82E1-463E-A67B-976A5F3DCDB2_eedb5df7",
+    "long_id": "TCGA-BH-A5IZ-01Z-00-DX1.6C871030-82E1-463E-A67B-976A5F3DCDB2",
+    "question": "what percentage of the tumor volume constitutes ductal carcinoma in situ (dcis)?",
+    "ground_truth": "focal atypical ductal hyperplasia",
+    "choices": [
+      "less than 5%",
+      "22 cm",
+      "grade 3",
+      "focal atypical ductal hyperplasia"
+    ],
+    "A_file": "TCGA-BH-A5IZ-01Z-00-DX1.6C871030-82E1-463E-A67B-976A5F3DCDB2_eedb5df7.json",
+    "A_pred": "less than 5%",
+    "A_correct": false,
+    "A_explanation": "The slide shows ductal carcinoma in situ (DCIS) with a solid-micropapillary growth pattern, and the DCIS constitutes less than 5% of the tumor volume, as indicated by the slide-level diagnostic result.",
+    "B_file": "TCGA-BH-A5IZ-01Z-00-DX1.6C871030-82E1-463E-A67B-976A5F3DCDB2_eedb5df7.json",
+    "B_pred": "A",
+    "B_correct": true,
+    "B_explanation": "The patch-level descriptions indicate the presence of ductal carcinoma in situ (DCIS) with a small focus of atypical ductal hyperplasia (ADH). The DCIS is described as 'small,' which implies it does not meet the threshold of >10% of the tumor volume to qualify as a pure DCIS diagnosis. Therefore, the percentage of the tumor volume that constitutes DCIS is less than 5%."
+  },
+  {
+    "case_id": "TCGA-C8-A1HJ-01Z-00-DX1.745159F1-85E7-4CC0-B088-E1CA91916FB8_e590172d",
+    "long_id": "TCGA-C8-A1HJ-01Z-00-DX1.745159F1-85E7-4CC0-B088-E1CA91916FB8",
+    "question": "what is the chief complaint of the patient?",
+    "ground_truth": "pain",
+    "choices": [
+      "breast tumor",
+      "symptomatic",
+      "lump in the breast",
+      "pain"
+    ],
+    "A_file": "TCGA-C8-A1HJ-01Z-00-DX1.745159F1-85E7-4CC0-B088-E1CA91916FB8_e590172d.json",
+    "A_pred": "breast tumor",
+    "A_correct": false,
+    "A_explanation": "The slide shows a breast lesion with features consistent with a tumor, such as a well-defined mass and possible architectural distortion, which aligns with the clinical presentation of a breast tumor.",
+    "B_file": "TCGA-C8-A1HJ-01Z-00-DX1.745159F1-85E7-4CC0-B088-E1CA91916FB8_e590172d.json",
+    "B_pred": "A",
+    "B_correct": true,
+    "B_explanation": "The slide shows a metastatic small cell carcinoma to the bone, which is consistent with a breast tumor as the chief complaint."
+  },
+  {
+    "case_id": "TCGA-C8-A3M7-01Z-00-DX1.846C75F1-2E7E-44F7-B21F-C246141558FA_733e4c7b",
+    "long_id": "TCGA-C8-A3M7-01Z-00-DX1.846C75F1-2E7E-44F7-B21F-C246141558FA",
+    "question": "what is the patient's karnofsky performance scale score indicating?",
+    "ground_truth": "asymptomatic",
+    "choices": [
+      "severely symptomatic",
+      "moderately symptomatic",
+      "mildly symptomatic",
+      "asymptomatic"
+    ],
+    "A_file": "TCGA-C8-A3M7-01Z-00-DX1.846C75F1-2E7E-44F7-B21F-C246141558FA_733e4c7b.json",
+    "A_pred": "severely symptomatic",
+    "A_correct": false,
+    "A_explanation": "The slide shows extensive bone marrow fibrosis with collagen deposition and loss of normal hematopoietic cells, consistent with chronic osteomyelitis. The Karnofsky score of 1 correlates with severe respiratory and nutritional deterioration, supporting the conclusion of advanced disease.",
+    "B_file": "TCGA-C8-A3M7-01Z-00-DX1.846C75F1-2E7E-44F7-B21F-C246141558FA_733e4c7b.json",
+    "B_pred": "asymptomatic",
+    "B_correct": true,
+    "B_explanation": "The slide descriptions focus on benign tumors and normal tissue structures without indicating any significant pathological changes or symptoms. The absence of necrosis, inflammation, or malignancy suggests a normal or asymptomatic condition."
+  },
+  {
+    "case_id": "TCGA-C8-A3M7-01Z-00-DX1.846C75F1-2E7E-44F7-B21F-C246141558FA_d923ca8a",
+    "long_id": "TCGA-C8-A3M7-01Z-00-DX1.846C75F1-2E7E-44F7-B21F-C246141558FA",
+    "question": "is the patient currently on any medications?",
+    "ground_truth": "not specified",
+    "choices": [
+      "yes",
+      "no",
+      "not specified",
+      "none of the above"
+    ],
+    "A_file": "TCGA-C8-A3M7-01Z-00-DX1.846C75F1-2E7E-44F7-B21F-C246141558FA_d923ca8a.json",
+    "A_pred": "no",
+    "A_correct": false,
+    "A_explanation": "The slide does not show any evidence of medication use. There are no signs of medication-related changes such as granulomas, necrosis, or inflammatory infiltrates. The tissue appears normal with no signs of treatment or drug-induced pathology.",
+    "B_file": "TCGA-C8-A3M7-01Z-00-DX1.846C75F1-2E7E-44F7-B21F-C246141558FA_d923ca8a.json",
+    "B_pred": "not specified",
+    "B_correct": true,
+    "B_explanation": "The provided patch-level descriptions do not mention any medication history or clinical context related to the patient's current medications. The focus of the descriptions is on histopathological features of various tissues and tumors, with no direct reference to medication use or a medication history."
+  },
+  {
+    "case_id": "TCGA-C8-A8HR-01Z-00-DX1.8E841CA8-1CE2-4242-AC5A-3247075CF8F4_f6a78564",
+    "long_id": "TCGA-C8-A8HR-01Z-00-DX1.8E841CA8-1CE2-4242-AC5A-3247075CF8F4",
+    "question": "what is the patient's age?",
+    "ground_truth": "46",
+    "choices": [
+      "46",
+      "37",
+      "52",
+      "64"
+    ],
+    "A_file": "TCGA-C8-A8HR-01Z-00-DX1.8E841CA8-1CE2-4242-AC5A-3247075CF8F4_f6a78564.json",
+    "A_pred": "37",
+    "A_correct": false,
+    "A_explanation": "The slide-level context explicitly states 'age: f', indicating the patient is female. The age is directly provided in the slide-level context and is not derived from the patch-level descriptions.",
+    "B_file": "TCGA-C8-A8HR-01Z-00-DX1.8E841CA8-1CE2-4242-AC5A-3247075CF8F4_f6a78564.json",
+    "B_pred": "64",
+    "B_correct": true,
+    "B_explanation": "The image shows a well-circumscribed lesion with uniform adipocytes and scattered spindle cells, consistent with a benign mesenchymal tumor. The patient's age is critical here: the lesion's circumscribed borders and lack of malignant features suggest a slow-growing, benign process. Among the choices, '64' is the only plausible age for a patient with this presentation, as it falls within the typical age range for benign adipose tumors."
+  }
+]

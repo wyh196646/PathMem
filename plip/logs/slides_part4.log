@@ -1,0 +1,1360 @@
+/home/yuhaowang/anaconda3/envs/pathagent/lib/python3.9/site-packages/transformers/utils/generic.py:260: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  torch.utils._pytree._register_pytree_node(
+/home/yuhaowang/anaconda3/envs/pathagent/lib/python3.9/site-packages/transformers/utils/generic.py:260: FutureWarning: `torch.utils._pytree._register_pytree_node` is deprecated. Please use `torch.utils._pytree.register_pytree_node` instead.
+  torch.utils._pytree._register_pytree_node(
+Loading PLIP model from: /data/yuhaowang/cache/plip
+Task file: /data2/yuhaowang/processed_wsi/slidebench/split_name/slides_part4.txt, 263 folders to process
+Image Root: /data2/yuhaowang/processed_wsi/slidebench/patches_output
+Output Dir: /data2/yuhaowang/processed_wsi/slidebench/img_features
+
+Start processing folder: 761
+761 already completed (6 features), skipping
+
+Start processing folder: 762
+762 already completed (5 features), skipping
+
+Start processing folder: 763
+763 already completed (5 features), skipping
+
+Start processing folder: 764
+764 already completed (6 features), skipping
+
+Start processing folder: 765
+765 already completed (7 features), skipping
+
+Start processing folder: 766
+766 already completed (4 features), skipping
+
+Start processing folder: 767
+767 already completed (8 features), skipping
+
+Start processing folder: 768
+768 already completed (3 features), skipping
+
+Start processing folder: 769
+769 already completed (11 features), skipping
+
+Start processing folder: 77
+77 already completed (6 features), skipping
+
+Start processing folder: 770
+770 already completed (7 features), skipping
+
+Start processing folder: 771
+771 already completed (3 features), skipping
+
+Start processing folder: 772
+772 already completed (19 features), skipping
+
+Start processing folder: 773
+773 already completed (1 features), skipping
+
+Start processing folder: 774
+774 already completed (9 features), skipping
+
+Start processing folder: 775
+775 already completed (9 features), skipping
+
+Start processing folder: 776
+776 already completed (8 features), skipping
+
+Start processing folder: 777
+777 already completed (4 features), skipping
+
+Start processing folder: 778
+778 already completed (3 features), skipping
+
+Start processing folder: 779
+779 already completed (7 features), skipping
+
+Start processing folder: 78
+78 already completed (6 features), skipping
+
+Start processing folder: 780
+780 already completed (7 features), skipping
+
+Start processing folder: 781
+781 already completed (5 features), skipping
+
+Start processing folder: 782
+782 already completed (1 features), skipping
+
+Start processing folder: 783
+783 already completed (5 features), skipping
+
+Start processing folder: 784
+784 already completed (5 features), skipping
+
+Start processing folder: 785
+785 already completed (5 features), skipping
+
+Start processing folder: 786
+786 already completed (7 features), skipping
+
+Start processing folder: 787
+787 already completed (11 features), skipping
+
+Start processing folder: 788
+788 already completed (5 features), skipping
+
+Start processing folder: 789
+789 already completed (7 features), skipping
+
+Start processing folder: 79
+79 already completed (6 features), skipping
+
+Start processing folder: 790
+790 already completed (6 features), skipping
+
+Start processing folder: 791
+791 already completed (3 features), skipping
+
+Start processing folder: 792
+792 already completed (8 features), skipping
+
+Start processing folder: 793
+793 already completed (61 features), skipping
+
+Start processing folder: 794
+794 already completed (6 features), skipping
+
+Start processing folder: 795
+795 already completed (5 features), skipping
+
+Start processing folder: 796
+796 already completed (3 features), skipping
+
+Start processing folder: 797
+797 already completed (2 features), skipping
+
+Start processing folder: 798
+798 already completed (4 features), skipping
+
+Start processing folder: 799
+799 already completed (6 features), skipping
+
+Start processing folder: 8
+8 already completed (4 features), skipping
+
+Start processing folder: 80
+80 already completed (8 features), skipping
+
+Start processing folder: 800
+800 already completed (6 features), skipping
+
+Start processing folder: 801
+801 already completed (3 features), skipping
+
+Start processing folder: 802
+802 already completed (49 features), skipping
+
+Start processing folder: 804
+804 already completed (6 features), skipping
+
+Start processing folder: 805
+805 already completed (6 features), skipping
+
+Start processing folder: 806
+806 already completed (7 features), skipping
+
+Start processing folder: 807
+807 already completed (4 features), skipping
+
+Start processing folder: 808
+808 already completed (2 features), skipping
+
+Start processing folder: 809
+809 already completed (2 features), skipping
+
+Start processing folder: 81
+81 already completed (4 features), skipping
+
+Start processing folder: 810
+810 already completed (5 features), skipping
+
+Start processing folder: 811
+811 already completed (6 features), skipping
+
+Start processing folder: 812
+812 already completed (28 features), skipping
+
+Start processing folder: 813
+813 already completed (14 features), skipping
+
+Start processing folder: 814
+814 already completed (4 features), skipping
+
+Start processing folder: 815
+815 already completed (7 features), skipping
+
+Start processing folder: 816
+816 already completed (36 features), skipping
+
+Start processing folder: 817
+817 already completed (5 features), skipping
+
+Start processing folder: 818
+818 already completed (2 features), skipping
+
+Start processing folder: 819
+819 already completed (6 features), skipping
+
+Start processing folder: 82
+82 already completed (5 features), skipping
+
+Start processing folder: 820
+820 already completed (8 features), skipping
+
+Start processing folder: 821
+821 already completed (5 features), skipping
+
+Start processing folder: 822
+822 already completed (5 features), skipping
+
+Start processing folder: 823
+823 already completed (9 features), skipping
+
+Start processing folder: 824
+824 already completed (10 features), skipping
+
+Start processing folder: 825
+825 already completed (6 features), skipping
+
+Start processing folder: 826
+826 already completed (11 features), skipping
+
+Start processing folder: 827
+827 already completed (7 features), skipping
+
+Start processing folder: 828
+828 already completed (6 features), skipping
+
+Start processing folder: 829
+829 already completed (4 features), skipping
+
+Start processing folder: 83
+83 already completed (7 features), skipping
+
+Start processing folder: 830
+830 already completed (17 features), skipping
+
+Start processing folder: 831
+831 already completed (8 features), skipping
+
+Start processing folder: 832
+832 already completed (5 features), skipping
+
+Start processing folder: 833
+833 already completed (5 features), skipping
+
+Start processing folder: 834
+834 | Finished 0/8
+Encoding 834:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:05<00:00,  5.21s/it]100%|██████████| 1/1 [00:05<00:00,  5.21s/it]
+Encoding 834: 100%|██████████| 1/1 [01:07<00:00, 67.11s/batch]Encoding 834: 100%|██████████| 1/1 [01:07<00:00, 67.16s/batch]
+834 processing complete, saved 8 features
+
+Start processing folder: 835
+835 | Finished 0/4
+Encoding 835:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.43s/it]100%|██████████| 1/1 [00:02<00:00,  2.43s/it]
+Encoding 835: 100%|██████████| 1/1 [00:30<00:00, 30.42s/batch]Encoding 835: 100%|██████████| 1/1 [00:30<00:00, 30.54s/batch]
+835 processing complete, saved 4 features
+
+Start processing folder: 836
+836 | Finished 0/6
+Encoding 836:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.56s/it]100%|██████████| 1/1 [00:03<00:00,  3.56s/it]
+Encoding 836: 100%|██████████| 1/1 [00:43<00:00, 43.96s/batch]Encoding 836: 100%|██████████| 1/1 [00:44<00:00, 44.06s/batch]
+836 processing complete, saved 6 features
+
+Start processing folder: 837
+837 | Finished 0/8
+Encoding 837:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.74s/it]100%|██████████| 1/1 [00:04<00:00,  4.74s/it]
+Encoding 837: 100%|██████████| 1/1 [00:55<00:00, 55.93s/batch]Encoding 837: 100%|██████████| 1/1 [00:56<00:00, 56.06s/batch]
+837 processing complete, saved 8 features
+
+Start processing folder: 838
+838 | Finished 0/11
+Encoding 838:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:06<00:00,  6.59s/it]100%|██████████| 1/1 [00:06<00:00,  6.59s/it]
+Encoding 838: 100%|██████████| 1/1 [01:14<00:00, 74.39s/batch]Encoding 838: 100%|██████████| 1/1 [01:14<00:00, 74.52s/batch]
+838 processing complete, saved 11 features
+
+Start processing folder: 839
+839 | Finished 0/5
+Encoding 839:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.87s/it]100%|██████████| 1/1 [00:02<00:00,  2.87s/it]
+Encoding 839: 100%|██████████| 1/1 [00:36<00:00, 36.71s/batch]Encoding 839: 100%|██████████| 1/1 [00:36<00:00, 36.86s/batch]
+839 processing complete, saved 5 features
+
+Start processing folder: 84
+84 | Finished 0/6
+Encoding 84:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.89s/it]100%|██████████| 1/1 [00:03<00:00,  3.89s/it]
+Encoding 84: 100%|██████████| 1/1 [00:50<00:00, 50.83s/batch]Encoding 84: 100%|██████████| 1/1 [00:50<00:00, 50.97s/batch]
+84 processing complete, saved 6 features
+
+Start processing folder: 840
+840 | Finished 0/4
+Encoding 840:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.46s/it]100%|██████████| 1/1 [00:02<00:00,  2.46s/it]
+Encoding 840: 100%|██████████| 1/1 [00:32<00:00, 32.58s/batch]Encoding 840: 100%|██████████| 1/1 [00:32<00:00, 32.72s/batch]
+840 processing complete, saved 4 features
+
+Start processing folder: 841
+841 | Finished 0/5
+Encoding 841:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.88s/it]100%|██████████| 1/1 [00:02<00:00,  2.88s/it]
+Encoding 841: 100%|██████████| 1/1 [00:36<00:00, 36.64s/batch]Encoding 841: 100%|██████████| 1/1 [00:36<00:00, 36.78s/batch]
+841 processing complete, saved 5 features
+
+Start processing folder: 842
+842 | Finished 0/3
+Encoding 842:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.77s/it]100%|██████████| 1/1 [00:01<00:00,  1.77s/it]
+Encoding 842: 100%|██████████| 1/1 [00:24<00:00, 24.93s/batch]Encoding 842: 100%|██████████| 1/1 [00:25<00:00, 25.07s/batch]
+842 processing complete, saved 3 features
+
+Start processing folder: 843
+843 | Finished 0/37
+Encoding 843:   0%|          | 0/2 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.96s/it]100%|██████████| 1/1 [00:22<00:00, 22.96s/it]
+Encoding 843:  50%|█████     | 1/2 [04:25<04:25, 265.72s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.28s/it]100%|██████████| 1/1 [00:03<00:00,  3.28s/it]
+Encoding 843: 100%|██████████| 2/2 [05:11<00:00, 136.35s/batch]Encoding 843: 100%|██████████| 2/2 [05:11<00:00, 155.85s/batch]
+843 processing complete, saved 37 features
+
+Start processing folder: 844
+844 | Finished 0/2
+Encoding 844:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.20s/it]100%|██████████| 1/1 [00:01<00:00,  1.20s/it]
+Encoding 844: 100%|██████████| 1/1 [00:19<00:00, 19.21s/batch]Encoding 844: 100%|██████████| 1/1 [00:19<00:00, 19.38s/batch]
+844 processing complete, saved 2 features
+
+Start processing folder: 845
+845 | Finished 0/3
+Encoding 845:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.79s/it]100%|██████████| 1/1 [00:01<00:00,  1.79s/it]
+Encoding 845: 100%|██████████| 1/1 [00:26<00:00, 26.45s/batch]Encoding 845: 100%|██████████| 1/1 [00:26<00:00, 26.62s/batch]
+845 processing complete, saved 3 features
+
+Start processing folder: 846
+846 | Finished 0/48
+Encoding 846:   0%|          | 0/2 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:23<00:00, 23.70s/it]100%|██████████| 1/1 [00:23<00:00, 23.70s/it]
+Encoding 846:  50%|█████     | 1/2 [04:34<04:34, 274.36s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.60s/it]100%|██████████| 1/1 [00:10<00:00, 10.60s/it]
+Encoding 846: 100%|██████████| 2/2 [06:42<00:00, 188.27s/batch]Encoding 846: 100%|██████████| 2/2 [06:42<00:00, 201.32s/batch]
+846 processing complete, saved 48 features
+
+Start processing folder: 847
+847 | Finished 0/4
+Encoding 847:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.38s/it]100%|██████████| 1/1 [00:02<00:00,  2.38s/it]
+Encoding 847: 100%|██████████| 1/1 [00:34<00:00, 34.15s/batch]Encoding 847: 100%|██████████| 1/1 [00:34<00:00, 34.37s/batch]
+847 processing complete, saved 4 features
+
+Start processing folder: 848
+848 | Finished 0/3
+Encoding 848:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.82s/it]100%|██████████| 1/1 [00:01<00:00,  1.82s/it]
+Encoding 848: 100%|██████████| 1/1 [00:27<00:00, 27.09s/batch]Encoding 848: 100%|██████████| 1/1 [00:27<00:00, 27.27s/batch]
+848 processing complete, saved 3 features
+
+Start processing folder: 849
+849 | Finished 0/4
+Encoding 849:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.36s/it]100%|██████████| 1/1 [00:02<00:00,  2.36s/it]
+Encoding 849: 100%|██████████| 1/1 [00:32<00:00, 32.24s/batch]Encoding 849: 100%|██████████| 1/1 [00:32<00:00, 32.42s/batch]
+849 processing complete, saved 4 features
+
+Start processing folder: 85
+85 | Finished 0/6
+Encoding 85:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.81s/it]100%|██████████| 1/1 [00:03<00:00,  3.82s/it]
+Encoding 85: 100%|██████████| 1/1 [00:49<00:00, 49.31s/batch]Encoding 85: 100%|██████████| 1/1 [00:49<00:00, 49.50s/batch]
+85 processing complete, saved 6 features
+
+Start processing folder: 850
+850 | Finished 0/5
+Encoding 850:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.89s/it]100%|██████████| 1/1 [00:02<00:00,  2.89s/it]
+Encoding 850: 100%|██████████| 1/1 [00:38<00:00, 38.70s/batch]Encoding 850: 100%|██████████| 1/1 [00:38<00:00, 38.92s/batch]
+850 processing complete, saved 5 features
+
+Start processing folder: 851
+851 | Finished 0/6
+Encoding 851:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.56s/it]100%|██████████| 1/1 [00:03<00:00,  3.56s/it]
+Encoding 851: 100%|██████████| 1/1 [00:50<00:00, 50.17s/batch]Encoding 851: 100%|██████████| 1/1 [00:50<00:00, 50.39s/batch]
+851 processing complete, saved 6 features
+
+Start processing folder: 852
+852 | Finished 0/107
+Encoding 852:   0%|          | 0/4 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.07s/it]100%|██████████| 1/1 [00:22<00:00, 22.07s/it]
+Encoding 852:  25%|██▌       | 1/4 [04:17<12:51, 257.06s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.96s/it]100%|██████████| 1/1 [00:21<00:00, 21.96s/it]
+Encoding 852:  50%|█████     | 2/4 [08:12<08:08, 244.08s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:18<00:00, 18.38s/it]100%|██████████| 1/1 [00:18<00:00, 18.38s/it]
+Encoding 852:  75%|███████▌  | 3/4 [11:40<03:47, 227.89s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:06<00:00,  6.45s/it]100%|██████████| 1/1 [00:06<00:00,  6.45s/it]
+Encoding 852: 100%|██████████| 4/4 [12:58<00:00, 168.71s/batch]Encoding 852: 100%|██████████| 4/4 [12:58<00:00, 194.74s/batch]
+852 processing complete, saved 107 features
+
+Start processing folder: 853
+853 | Finished 0/5
+Encoding 853:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.93s/it]100%|██████████| 1/1 [00:02<00:00,  2.93s/it]
+Encoding 853: 100%|██████████| 1/1 [00:39<00:00, 39.31s/batch]Encoding 853: 100%|██████████| 1/1 [00:39<00:00, 39.54s/batch]
+853 processing complete, saved 5 features
+
+Start processing folder: 854
+854 | Finished 0/5
+Encoding 854:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.79s/it]100%|██████████| 1/1 [00:02<00:00,  2.79s/it]
+Encoding 854: 100%|██████████| 1/1 [00:37<00:00, 37.80s/batch]Encoding 854: 100%|██████████| 1/1 [00:38<00:00, 38.01s/batch]
+854 processing complete, saved 5 features
+
+Start processing folder: 855
+855 | Finished 0/6
+Encoding 855:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.71s/it]100%|██████████| 1/1 [00:03<00:00,  3.71s/it]
+Encoding 855: 100%|██████████| 1/1 [00:48<00:00, 48.89s/batch]Encoding 855: 100%|██████████| 1/1 [00:49<00:00, 49.12s/batch]
+855 processing complete, saved 6 features
+
+Start processing folder: 856
+856 | Finished 0/7
+Encoding 856:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.08s/it]100%|██████████| 1/1 [00:04<00:00,  4.08s/it]
+Encoding 856: 100%|██████████| 1/1 [00:53<00:00, 53.90s/batch]Encoding 856: 100%|██████████| 1/1 [00:54<00:00, 54.12s/batch]
+856 processing complete, saved 7 features
+
+Start processing folder: 857
+857 | Finished 0/3
+Encoding 857:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.79s/it]100%|██████████| 1/1 [00:01<00:00,  1.79s/it]
+Encoding 857: 100%|██████████| 1/1 [00:29<00:00, 29.15s/batch]Encoding 857: 100%|██████████| 1/1 [00:29<00:00, 29.38s/batch]
+857 processing complete, saved 3 features
+
+Start processing folder: 858
+858 | Finished 0/5
+Encoding 858:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.98s/it]100%|██████████| 1/1 [00:02<00:00,  2.98s/it]
+Encoding 858: 100%|██████████| 1/1 [00:41<00:00, 41.84s/batch]Encoding 858: 100%|██████████| 1/1 [00:42<00:00, 42.09s/batch]
+858 processing complete, saved 5 features
+
+Start processing folder: 859
+859 | Finished 0/4
+Encoding 859:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.34s/it]100%|██████████| 1/1 [00:02<00:00,  2.34s/it]
+Encoding 859: 100%|██████████| 1/1 [00:32<00:00, 32.78s/batch]Encoding 859: 100%|██████████| 1/1 [00:33<00:00, 33.01s/batch]
+859 processing complete, saved 4 features
+
+Start processing folder: 86
+86 | Finished 0/7
+Encoding 86:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.23s/it]100%|██████████| 1/1 [00:04<00:00,  4.23s/it]
+Encoding 86: 100%|██████████| 1/1 [00:55<00:00, 55.79s/batch]Encoding 86: 100%|██████████| 1/1 [00:56<00:00, 56.01s/batch]
+86 processing complete, saved 7 features
+
+Start processing folder: 860
+860 | Finished 0/6
+Encoding 860:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.49s/it]100%|██████████| 1/1 [00:03<00:00,  3.49s/it]
+Encoding 860: 100%|██████████| 1/1 [00:44<00:00, 44.56s/batch]Encoding 860: 100%|██████████| 1/1 [00:44<00:00, 44.76s/batch]
+860 processing complete, saved 6 features
+
+Start processing folder: 861
+861 | Finished 0/7
+Encoding 861:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.33s/it]100%|██████████| 1/1 [00:04<00:00,  4.33s/it]
+Encoding 861: 100%|██████████| 1/1 [00:54<00:00, 54.48s/batch]Encoding 861: 100%|██████████| 1/1 [00:54<00:00, 54.72s/batch]
+861 processing complete, saved 7 features
+
+Start processing folder: 862
+862 | Finished 0/8
+Encoding 862:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.56s/it]100%|██████████| 1/1 [00:04<00:00,  4.57s/it]
+Encoding 862: 100%|██████████| 1/1 [00:58<00:00, 58.12s/batch]Encoding 862: 100%|██████████| 1/1 [00:58<00:00, 58.32s/batch]
+862 processing complete, saved 8 features
+
+Start processing folder: 863
+863 | Finished 0/8
+Encoding 863:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.74s/it]100%|██████████| 1/1 [00:04<00:00,  4.74s/it]
+Encoding 863: 100%|██████████| 1/1 [00:58<00:00, 58.90s/batch]Encoding 863: 100%|██████████| 1/1 [00:59<00:00, 59.12s/batch]
+863 processing complete, saved 8 features
+
+Start processing folder: 864
+864 | Finished 0/4
+Encoding 864:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.31s/it]100%|██████████| 1/1 [00:02<00:00,  2.31s/it]
+Encoding 864: 100%|██████████| 1/1 [00:32<00:00, 32.01s/batch]Encoding 864: 100%|██████████| 1/1 [00:32<00:00, 32.22s/batch]
+864 processing complete, saved 4 features
+
+Start processing folder: 865
+865 | Finished 0/5
+Encoding 865:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.07s/it]100%|██████████| 1/1 [00:03<00:00,  3.07s/it]
+Encoding 865: 100%|██████████| 1/1 [00:40<00:00, 40.85s/batch]Encoding 865: 100%|██████████| 1/1 [00:41<00:00, 41.06s/batch]
+865 processing complete, saved 5 features
+
+Start processing folder: 866
+866 | Finished 0/8
+Encoding 866:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.96s/it]100%|██████████| 1/1 [00:04<00:00,  4.96s/it]
+Encoding 866: 100%|██████████| 1/1 [01:07<00:00, 67.45s/batch]Encoding 866: 100%|██████████| 1/1 [01:07<00:00, 67.65s/batch]
+866 processing complete, saved 8 features
+
+Start processing folder: 867
+867 | Finished 0/4
+Encoding 867:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.03s/it]100%|██████████| 1/1 [00:02<00:00,  2.03s/it]
+Encoding 867: 100%|██████████| 1/1 [00:29<00:00, 29.48s/batch]Encoding 867: 100%|██████████| 1/1 [00:29<00:00, 29.69s/batch]
+867 processing complete, saved 4 features
+
+Start processing folder: 868
+868 | Finished 0/8
+Encoding 868:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.75s/it]100%|██████████| 1/1 [00:04<00:00,  4.75s/it]
+Encoding 868: 100%|██████████| 1/1 [01:01<00:00, 61.40s/batch]Encoding 868: 100%|██████████| 1/1 [01:01<00:00, 61.62s/batch]
+868 processing complete, saved 8 features
+
+Start processing folder: 869
+869 | Finished 0/7
+Encoding 869:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.31s/it]100%|██████████| 1/1 [00:04<00:00,  4.31s/it]
+Encoding 869: 100%|██████████| 1/1 [00:51<00:00, 51.85s/batch]Encoding 869: 100%|██████████| 1/1 [00:52<00:00, 52.06s/batch]
+869 processing complete, saved 7 features
+
+Start processing folder: 87
+87 | Finished 0/7
+Encoding 87:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.08s/it]100%|██████████| 1/1 [00:04<00:00,  4.08s/it]
+Encoding 87: 100%|██████████| 1/1 [00:54<00:00, 54.05s/batch]Encoding 87: 100%|██████████| 1/1 [00:54<00:00, 54.28s/batch]
+87 processing complete, saved 7 features
+
+Start processing folder: 870
+870 | Finished 0/1
+Encoding 870:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.91it/s]100%|██████████| 1/1 [00:00<00:00,  1.91it/s]
+Encoding 870: 100%|██████████| 1/1 [00:09<00:00,  9.66s/batch]Encoding 870: 100%|██████████| 1/1 [00:09<00:00,  9.85s/batch]
+870 processing complete, saved 1 features
+
+Start processing folder: 871
+871 | Finished 0/5
+Encoding 871:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.79s/it]100%|██████████| 1/1 [00:02<00:00,  2.79s/it]
+Encoding 871: 100%|██████████| 1/1 [00:35<00:00, 35.52s/batch]Encoding 871: 100%|██████████| 1/1 [00:35<00:00, 35.73s/batch]
+871 processing complete, saved 5 features
+
+Start processing folder: 872
+872 | Finished 0/4
+Encoding 872:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.35s/it]100%|██████████| 1/1 [00:02<00:00,  2.35s/it]
+Encoding 872: 100%|██████████| 1/1 [00:30<00:00, 30.87s/batch]Encoding 872: 100%|██████████| 1/1 [00:31<00:00, 31.05s/batch]
+872 processing complete, saved 4 features
+
+Start processing folder: 873
+873 | Finished 0/6
+Encoding 873:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.56s/it]100%|██████████| 1/1 [00:03<00:00,  3.56s/it]
+Encoding 873: 100%|██████████| 1/1 [00:44<00:00, 44.76s/batch]Encoding 873: 100%|██████████| 1/1 [00:44<00:00, 44.97s/batch]
+873 processing complete, saved 6 features
+
+Start processing folder: 874
+874 | Finished 0/4
+Encoding 874:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.37s/it]100%|██████████| 1/1 [00:02<00:00,  2.37s/it]
+Encoding 874: 100%|██████████| 1/1 [00:34<00:00, 34.53s/batch]Encoding 874: 100%|██████████| 1/1 [00:34<00:00, 34.74s/batch]
+874 processing complete, saved 4 features
+
+Start processing folder: 875
+875 | Finished 0/40
+Encoding 875:   0%|          | 0/2 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:20<00:00, 20.10s/it]100%|██████████| 1/1 [00:20<00:00, 20.10s/it]
+Encoding 875:  50%|█████     | 1/2 [03:26<03:26, 206.90s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.65s/it]100%|██████████| 1/1 [00:04<00:00,  4.65s/it]
+Encoding 875: 100%|██████████| 2/2 [04:25<00:00, 119.52s/batch]Encoding 875: 100%|██████████| 2/2 [04:25<00:00, 132.79s/batch]
+875 processing complete, saved 40 features
+
+Start processing folder: 876
+876 | Finished 0/3
+Encoding 876:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.83s/it]100%|██████████| 1/1 [00:01<00:00,  1.83s/it]
+Encoding 876: 100%|██████████| 1/1 [00:25<00:00, 25.65s/batch]Encoding 876: 100%|██████████| 1/1 [00:25<00:00, 25.83s/batch]
+876 processing complete, saved 3 features
+
+Start processing folder: 877
+877 | Finished 0/3
+Encoding 877:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.82s/it]100%|██████████| 1/1 [00:01<00:00,  1.82s/it]
+Encoding 877: 100%|██████████| 1/1 [00:28<00:00, 28.70s/batch]Encoding 877: 100%|██████████| 1/1 [00:28<00:00, 28.88s/batch]
+877 processing complete, saved 3 features
+
+Start processing folder: 878
+878 | Finished 0/2
+Encoding 878:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.23s/it]100%|██████████| 1/1 [00:01<00:00,  1.24s/it]
+Encoding 878: 100%|██████████| 1/1 [00:24<00:00, 24.29s/batch]Encoding 878: 100%|██████████| 1/1 [00:24<00:00, 24.47s/batch]
+878 processing complete, saved 2 features
+
+Start processing folder: 879
+879 | Finished 0/9
+Encoding 879:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:05<00:00,  5.29s/it]100%|██████████| 1/1 [00:05<00:00,  5.29s/it]
+Encoding 879: 100%|██████████| 1/1 [01:06<00:00, 66.35s/batch]Encoding 879: 100%|██████████| 1/1 [01:06<00:00, 66.56s/batch]
+879 processing complete, saved 9 features
+
+Start processing folder: 88
+88 | Finished 0/5
+Encoding 88:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.11s/it]100%|██████████| 1/1 [00:03<00:00,  3.11s/it]
+Encoding 88: 100%|██████████| 1/1 [00:41<00:00, 41.86s/batch]Encoding 88: 100%|██████████| 1/1 [00:42<00:00, 42.07s/batch]
+88 processing complete, saved 5 features
+
+Start processing folder: 880
+880 | Finished 0/50
+Encoding 880:   0%|          | 0/2 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.86s/it]100%|██████████| 1/1 [00:22<00:00, 22.86s/it]
+Encoding 880:  50%|█████     | 1/2 [04:15<04:15, 255.60s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.33s/it]100%|██████████| 1/1 [00:12<00:00, 12.33s/it]
+Encoding 880: 100%|██████████| 2/2 [06:31<00:00, 184.95s/batch]Encoding 880: 100%|██████████| 2/2 [06:31<00:00, 195.70s/batch]
+880 processing complete, saved 50 features
+
+Start processing folder: 881
+881 | Finished 0/6
+Encoding 881:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.48s/it]100%|██████████| 1/1 [00:03<00:00,  3.48s/it]
+Encoding 881: 100%|██████████| 1/1 [00:44<00:00, 44.70s/batch]Encoding 881: 100%|██████████| 1/1 [00:44<00:00, 44.92s/batch]
+881 processing complete, saved 6 features
+
+Start processing folder: 882
+882 | Finished 0/4
+Encoding 882:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.45s/it]100%|██████████| 1/1 [00:02<00:00,  2.46s/it]
+Encoding 882: 100%|██████████| 1/1 [00:35<00:00, 35.01s/batch]Encoding 882: 100%|██████████| 1/1 [00:35<00:00, 35.22s/batch]
+882 processing complete, saved 4 features
+
+Start processing folder: 883
+883 | Finished 0/5
+Encoding 883:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.13s/it]100%|██████████| 1/1 [00:03<00:00,  3.13s/it]
+Encoding 883: 100%|██████████| 1/1 [00:40<00:00, 40.93s/batch]Encoding 883: 100%|██████████| 1/1 [00:41<00:00, 41.12s/batch]
+883 processing complete, saved 5 features
+
+Start processing folder: 884
+884 | Finished 0/5
+Encoding 884:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.10s/it]100%|██████████| 1/1 [00:03<00:00,  3.10s/it]
+Encoding 884: 100%|██████████| 1/1 [00:41<00:00, 41.01s/batch]Encoding 884: 100%|██████████| 1/1 [00:41<00:00, 41.24s/batch]
+884 processing complete, saved 5 features
+
+Start processing folder: 885
+885 | Finished 0/6
+Encoding 885:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.71s/it]100%|██████████| 1/1 [00:03<00:00,  3.71s/it]
+Encoding 885: 100%|██████████| 1/1 [00:47<00:00, 47.27s/batch]Encoding 885: 100%|██████████| 1/1 [00:47<00:00, 47.49s/batch]
+885 processing complete, saved 6 features
+
+Start processing folder: 886
+886 | Finished 0/56
+Encoding 886:   0%|          | 0/2 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.61s/it]100%|██████████| 1/1 [00:21<00:00, 21.61s/it]
+Encoding 886:  50%|█████     | 1/2 [04:01<04:01, 241.94s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:14<00:00, 14.54s/it]100%|██████████| 1/1 [00:14<00:00, 14.54s/it]
+Encoding 886: 100%|██████████| 2/2 [06:41<00:00, 193.74s/batch]Encoding 886: 100%|██████████| 2/2 [06:42<00:00, 201.12s/batch]
+886 processing complete, saved 56 features
+
+Start processing folder: 887
+887 | Finished 0/11
+Encoding 887:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:06<00:00,  6.76s/it]100%|██████████| 1/1 [00:06<00:00,  6.76s/it]
+Encoding 887: 100%|██████████| 1/1 [01:20<00:00, 80.93s/batch]Encoding 887: 100%|██████████| 1/1 [01:21<00:00, 81.15s/batch]
+887 processing complete, saved 11 features
+
+Start processing folder: 888
+888 | Finished 0/10
+Encoding 888:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:06<00:00,  6.28s/it]100%|██████████| 1/1 [00:06<00:00,  6.28s/it]
+Encoding 888: 100%|██████████| 1/1 [01:15<00:00, 75.03s/batch]Encoding 888: 100%|██████████| 1/1 [01:15<00:00, 75.23s/batch]
+888 processing complete, saved 10 features
+
+Start processing folder: 889
+889 | Finished 0/8
+Encoding 889:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.87s/it]100%|██████████| 1/1 [00:04<00:00,  4.87s/it]
+Encoding 889: 100%|██████████| 1/1 [00:59<00:00, 59.32s/batch]Encoding 889: 100%|██████████| 1/1 [00:59<00:00, 59.56s/batch]
+889 processing complete, saved 8 features
+
+Start processing folder: 89
+89 | Finished 0/7
+Encoding 89:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.77s/it]100%|██████████| 1/1 [00:03<00:00,  3.77s/it]
+Encoding 89: 100%|██████████| 1/1 [00:47<00:00, 47.02s/batch]Encoding 89: 100%|██████████| 1/1 [00:47<00:00, 47.26s/batch]
+89 processing complete, saved 7 features
+
+Start processing folder: 890
+890 | Finished 0/16
+Encoding 890:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.70s/it]100%|██████████| 1/1 [00:10<00:00, 10.70s/it]
+Encoding 890: 100%|██████████| 1/1 [01:54<00:00, 114.61s/batch]Encoding 890: 100%|██████████| 1/1 [01:54<00:00, 114.88s/batch]
+890 processing complete, saved 16 features
+
+Start processing folder: 891
+891 | Finished 0/16
+Encoding 891:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.02s/it]100%|██████████| 1/1 [00:10<00:00, 10.02s/it]
+Encoding 891: 100%|██████████| 1/1 [01:59<00:00, 119.11s/batch]Encoding 891: 100%|██████████| 1/1 [01:59<00:00, 119.36s/batch]
+891 processing complete, saved 16 features
+
+Start processing folder: 892
+892 | Finished 0/10
+Encoding 892:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:05<00:00,  5.84s/it]100%|██████████| 1/1 [00:05<00:00,  5.84s/it]
+Encoding 892: 100%|██████████| 1/1 [01:15<00:00, 75.66s/batch]Encoding 892: 100%|██████████| 1/1 [01:15<00:00, 75.90s/batch]
+892 processing complete, saved 10 features
+
+Start processing folder: 893
+893 | Finished 0/12
+Encoding 893:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:07<00:00,  7.11s/it]100%|██████████| 1/1 [00:07<00:00,  7.11s/it]
+Encoding 893: 100%|██████████| 1/1 [01:26<00:00, 86.25s/batch]Encoding 893: 100%|██████████| 1/1 [01:26<00:00, 86.46s/batch]
+893 processing complete, saved 12 features
+
+Start processing folder: 894
+894 | Finished 0/10
+Encoding 894:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:05<00:00,  5.68s/it]100%|██████████| 1/1 [00:05<00:00,  5.68s/it]
+Encoding 894: 100%|██████████| 1/1 [01:11<00:00, 71.21s/batch]Encoding 894: 100%|██████████| 1/1 [01:11<00:00, 71.44s/batch]
+894 processing complete, saved 10 features
+
+Start processing folder: 895
+895 | Finished 0/11
+Encoding 895:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:06<00:00,  6.57s/it]100%|██████████| 1/1 [00:06<00:00,  6.57s/it]
+Encoding 895: 100%|██████████| 1/1 [01:17<00:00, 77.48s/batch]Encoding 895: 100%|██████████| 1/1 [01:17<00:00, 77.68s/batch]
+895 processing complete, saved 11 features
+
+Start processing folder: 896
+896 | Finished 0/9
+Encoding 896:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:05<00:00,  5.28s/it]100%|██████████| 1/1 [00:05<00:00,  5.28s/it]
+Encoding 896: 100%|██████████| 1/1 [01:04<00:00, 64.50s/batch]Encoding 896: 100%|██████████| 1/1 [01:04<00:00, 64.75s/batch]
+896 processing complete, saved 9 features
+
+Start processing folder: 897
+897 | Finished 0/7
+Encoding 897:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.23s/it]100%|██████████| 1/1 [00:04<00:00,  4.23s/it]
+Encoding 897: 100%|██████████| 1/1 [00:50<00:00, 50.50s/batch]Encoding 897: 100%|██████████| 1/1 [00:50<00:00, 50.72s/batch]
+897 processing complete, saved 7 features
+
+Start processing folder: 898
+898 | Finished 0/1
+Encoding 898:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00,  1.64it/s]100%|██████████| 1/1 [00:00<00:00,  1.64it/s]
+Encoding 898: 100%|██████████| 1/1 [00:14<00:00, 14.19s/batch]Encoding 898: 100%|██████████| 1/1 [00:14<00:00, 14.43s/batch]
+898 processing complete, saved 1 features
+
+Start processing folder: 899
+899 | Finished 0/7
+Encoding 899:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.16s/it]100%|██████████| 1/1 [00:04<00:00,  4.16s/it]
+Encoding 899: 100%|██████████| 1/1 [00:53<00:00, 53.10s/batch]Encoding 899: 100%|██████████| 1/1 [00:53<00:00, 53.34s/batch]
+899 processing complete, saved 7 features
+
+Start processing folder: 9
+9 | Finished 0/7
+Encoding 9:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:05<00:00,  5.80s/it]100%|██████████| 1/1 [00:05<00:00,  5.80s/it]
+Encoding 9: 100%|██████████| 1/1 [00:59<00:00, 59.28s/batch]Encoding 9: 100%|██████████| 1/1 [00:59<00:00, 59.49s/batch]
+9 processing complete, saved 7 features
+
+Start processing folder: 90
+90 | Finished 0/8
+Encoding 90:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.94s/it]100%|██████████| 1/1 [00:04<00:00,  4.94s/it]
+Encoding 90: 100%|██████████| 1/1 [01:06<00:00, 66.70s/batch]Encoding 90: 100%|██████████| 1/1 [01:06<00:00, 66.98s/batch]
+90 processing complete, saved 8 features
+
+Start processing folder: 900
+900 | Finished 0/11
+Encoding 900:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:06<00:00,  6.67s/it]100%|██████████| 1/1 [00:06<00:00,  6.67s/it]
+Encoding 900: 100%|██████████| 1/1 [01:23<00:00, 83.04s/batch]Encoding 900: 100%|██████████| 1/1 [01:23<00:00, 83.26s/batch]
+900 processing complete, saved 11 features
+
+Start processing folder: 901
+901 | Finished 0/17
+Encoding 901:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:11<00:00, 11.26s/it]100%|██████████| 1/1 [00:11<00:00, 11.26s/it]
+Encoding 901: 100%|██████████| 1/1 [02:04<00:00, 124.67s/batch]Encoding 901: 100%|██████████| 1/1 [02:04<00:00, 124.92s/batch]
+901 processing complete, saved 17 features
+
+Start processing folder: 902
+902 | Finished 0/11
+Encoding 902:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:07<00:00,  7.47s/it]100%|██████████| 1/1 [00:07<00:00,  7.47s/it]
+Encoding 902: 100%|██████████| 1/1 [02:03<00:00, 123.80s/batch]Encoding 902: 100%|██████████| 1/1 [02:04<00:00, 124.09s/batch]
+902 processing complete, saved 11 features
+
+Start processing folder: 903
+903 | Finished 0/31
+Encoding 903:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.61s/it]100%|██████████| 1/1 [00:21<00:00, 21.61s/it]
+Encoding 903: 100%|██████████| 1/1 [04:18<00:00, 258.88s/batch]Encoding 903: 100%|██████████| 1/1 [04:19<00:00, 259.23s/batch]
+903 processing complete, saved 31 features
+
+Start processing folder: 904
+904 | Finished 0/12
+Encoding 904:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:07<00:00,  7.44s/it]100%|██████████| 1/1 [00:07<00:00,  7.44s/it]
+Encoding 904: 100%|██████████| 1/1 [01:30<00:00, 90.26s/batch]Encoding 904: 100%|██████████| 1/1 [01:30<00:00, 90.58s/batch]
+904 processing complete, saved 12 features
+
+Start processing folder: 905
+905 | Finished 0/32
+Encoding 905:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:19<00:00, 19.76s/it]100%|██████████| 1/1 [00:19<00:00, 19.76s/it]
+Encoding 905: 100%|██████████| 1/1 [03:04<00:00, 184.60s/batch]Encoding 905: 100%|██████████| 1/1 [03:04<00:00, 184.90s/batch]
+905 processing complete, saved 32 features
+
+Start processing folder: 906
+906 | Finished 0/24
+Encoding 906:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:13<00:00, 13.94s/it]100%|██████████| 1/1 [00:13<00:00, 13.94s/it]
+Encoding 906: 100%|██████████| 1/1 [02:22<00:00, 142.60s/batch]Encoding 906: 100%|██████████| 1/1 [02:22<00:00, 142.96s/batch]
+906 processing complete, saved 24 features
+
+Start processing folder: 907
+907 | Finished 0/22
+Encoding 907:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:13<00:00, 13.09s/it]100%|██████████| 1/1 [00:13<00:00, 13.09s/it]
+Encoding 907: 100%|██████████| 1/1 [02:14<00:00, 134.10s/batch]Encoding 907: 100%|██████████| 1/1 [02:14<00:00, 134.50s/batch]
+907 processing complete, saved 22 features
+
+Start processing folder: 908
+908 | Finished 0/13
+Encoding 908:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:08<00:00,  8.73s/it]100%|██████████| 1/1 [00:08<00:00,  8.73s/it]
+Encoding 908: 100%|██████████| 1/1 [02:11<00:00, 131.64s/batch]Encoding 908: 100%|██████████| 1/1 [02:12<00:00, 132.03s/batch]
+908 processing complete, saved 13 features
+
+Start processing folder: 909
+909 | Finished 0/11
+Encoding 909:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:07<00:00,  7.21s/it]100%|██████████| 1/1 [00:07<00:00,  7.21s/it]
+Encoding 909: 100%|██████████| 1/1 [01:25<00:00, 85.65s/batch]Encoding 909: 100%|██████████| 1/1 [01:26<00:00, 86.06s/batch]
+909 processing complete, saved 11 features
+
+Start processing folder: 91
+91 | Finished 0/5
+Encoding 91:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.26s/it]100%|██████████| 1/1 [00:03<00:00,  3.26s/it]
+Encoding 91: 100%|██████████| 1/1 [00:43<00:00, 44.00s/batch]Encoding 91: 100%|██████████| 1/1 [00:44<00:00, 44.38s/batch]
+91 processing complete, saved 5 features
+
+Start processing folder: 910
+910 | Finished 0/8
+Encoding 910:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.75s/it]100%|██████████| 1/1 [00:04<00:00,  4.75s/it]
+Encoding 910: 100%|██████████| 1/1 [00:59<00:00, 59.11s/batch]Encoding 910: 100%|██████████| 1/1 [00:59<00:00, 59.37s/batch]
+910 processing complete, saved 8 features
+
+Start processing folder: 911
+911 | Finished 0/4
+Encoding 911:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.24s/it]100%|██████████| 1/1 [00:02<00:00,  2.24s/it]
+Encoding 911: 100%|██████████| 1/1 [00:31<00:00, 31.71s/batch]Encoding 911: 100%|██████████| 1/1 [00:31<00:00, 31.94s/batch]
+911 processing complete, saved 4 features
+
+Start processing folder: 912
+912 | Finished 0/21
+Encoding 912:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:13<00:00, 13.84s/it]100%|██████████| 1/1 [00:13<00:00, 13.84s/it]
+Encoding 912: 100%|██████████| 1/1 [02:22<00:00, 142.28s/batch]Encoding 912: 100%|██████████| 1/1 [02:22<00:00, 142.56s/batch]
+912 processing complete, saved 21 features
+
+Start processing folder: 913
+913 | Finished 0/20
+Encoding 913:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.86s/it]100%|██████████| 1/1 [00:12<00:00, 12.86s/it]
+Encoding 913: 100%|██████████| 1/1 [02:22<00:00, 142.00s/batch]Encoding 913: 100%|██████████| 1/1 [02:22<00:00, 142.32s/batch]
+913 processing complete, saved 20 features
+
+Start processing folder: 914
+914 | Finished 0/29
+Encoding 914:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:19<00:00, 19.51s/it]100%|██████████| 1/1 [00:19<00:00, 19.51s/it]
+Encoding 914: 100%|██████████| 1/1 [03:19<00:00, 199.99s/batch]Encoding 914: 100%|██████████| 1/1 [03:20<00:00, 200.32s/batch]
+914 processing complete, saved 29 features
+
+Start processing folder: 915
+915 | Finished 0/19
+Encoding 915:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:11<00:00, 11.73s/it]100%|██████████| 1/1 [00:11<00:00, 11.73s/it]
+Encoding 915: 100%|██████████| 1/1 [02:07<00:00, 127.93s/batch]Encoding 915: 100%|██████████| 1/1 [02:08<00:00, 128.31s/batch]
+915 processing complete, saved 19 features
+
+Start processing folder: 916
+916 | Finished 0/29
+Encoding 916:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:18<00:00, 18.97s/it]100%|██████████| 1/1 [00:18<00:00, 18.97s/it]
+Encoding 916: 100%|██████████| 1/1 [03:46<00:00, 226.91s/batch]Encoding 916: 100%|██████████| 1/1 [03:47<00:00, 227.30s/batch]
+916 processing complete, saved 29 features
+
+Start processing folder: 917
+917 | Finished 0/30
+Encoding 917:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:18<00:00, 18.87s/it]100%|██████████| 1/1 [00:18<00:00, 18.87s/it]
+Encoding 917: 100%|██████████| 1/1 [03:02<00:00, 182.85s/batch]Encoding 917: 100%|██████████| 1/1 [03:03<00:00, 183.22s/batch]
+917 processing complete, saved 30 features
+
+Start processing folder: 918
+918 | Finished 0/56
+Encoding 918:   0%|          | 0/2 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:24<00:00, 24.04s/it]100%|██████████| 1/1 [00:24<00:00, 24.04s/it]
+Encoding 918:  50%|█████     | 1/2 [04:47<04:47, 287.70s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:16<00:00, 16.56s/it]100%|██████████| 1/1 [00:16<00:00, 16.56s/it]
+Encoding 918: 100%|██████████| 2/2 [08:00<00:00, 231.66s/batch]Encoding 918: 100%|██████████| 2/2 [08:00<00:00, 240.29s/batch]
+918 processing complete, saved 56 features
+
+Start processing folder: 919
+919 | Finished 0/7
+Encoding 919:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.46s/it]100%|██████████| 1/1 [00:04<00:00,  4.46s/it]
+Encoding 919: 100%|██████████| 1/1 [00:55<00:00, 55.33s/batch]Encoding 919: 100%|██████████| 1/1 [00:55<00:00, 55.68s/batch]
+919 processing complete, saved 7 features
+
+Start processing folder: 92
+92 | Finished 0/12
+Encoding 92:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:05<00:00,  5.46s/it]100%|██████████| 1/1 [00:05<00:00,  5.46s/it]
+Encoding 92: 100%|██████████| 1/1 [01:02<00:00, 62.60s/batch]Encoding 92: 100%|██████████| 1/1 [01:02<00:00, 62.93s/batch]
+92 processing complete, saved 12 features
+
+Start processing folder: 920
+920 | Finished 0/5
+Encoding 920:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.22s/it]100%|██████████| 1/1 [00:03<00:00,  3.22s/it]
+Encoding 920: 100%|██████████| 1/1 [00:42<00:00, 42.99s/batch]Encoding 920: 100%|██████████| 1/1 [00:43<00:00, 43.35s/batch]
+920 processing complete, saved 5 features
+
+Start processing folder: 921
+921 | Finished 0/23
+Encoding 921:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:15<00:00, 15.71s/it]100%|██████████| 1/1 [00:15<00:00, 15.71s/it]
+Encoding 921: 100%|██████████| 1/1 [02:55<00:00, 175.70s/batch]Encoding 921: 100%|██████████| 1/1 [02:55<00:00, 175.98s/batch]
+921 processing complete, saved 23 features
+
+Start processing folder: 922
+922 | Finished 0/13
+Encoding 922:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:07<00:00,  7.86s/it]100%|██████████| 1/1 [00:07<00:00,  7.86s/it]
+Encoding 922: 100%|██████████| 1/1 [01:30<00:00, 90.25s/batch]Encoding 922: 100%|██████████| 1/1 [01:30<00:00, 90.53s/batch]
+922 processing complete, saved 13 features
+
+Start processing folder: 923
+923 | Finished 0/10
+Encoding 923:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:06<00:00,  6.13s/it]100%|██████████| 1/1 [00:06<00:00,  6.13s/it]
+Encoding 923: 100%|██████████| 1/1 [01:16<00:00, 76.81s/batch]Encoding 923: 100%|██████████| 1/1 [01:17<00:00, 77.09s/batch]
+923 processing complete, saved 10 features
+
+Start processing folder: 924
+924 | Finished 0/23
+Encoding 924:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:15<00:00, 15.44s/it]100%|██████████| 1/1 [00:15<00:00, 15.44s/it]
+Encoding 924: 100%|██████████| 1/1 [02:45<00:00, 165.18s/batch]Encoding 924: 100%|██████████| 1/1 [02:45<00:00, 165.53s/batch]
+924 processing complete, saved 23 features
+
+Start processing folder: 925
+925 | Finished 0/22
+Encoding 925:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:14<00:00, 14.90s/it]100%|██████████| 1/1 [00:14<00:00, 14.90s/it]
+Encoding 925: 100%|██████████| 1/1 [02:53<00:00, 173.10s/batch]Encoding 925: 100%|██████████| 1/1 [02:53<00:00, 173.41s/batch]
+925 processing complete, saved 22 features
+
+Start processing folder: 926
+926 | Finished 0/18
+Encoding 926:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:11<00:00, 11.56s/it]100%|██████████| 1/1 [00:11<00:00, 11.56s/it]
+Encoding 926: 100%|██████████| 1/1 [02:07<00:00, 127.64s/batch]Encoding 926: 100%|██████████| 1/1 [02:07<00:00, 127.96s/batch]
+926 processing complete, saved 18 features
+
+Start processing folder: 927
+927 | Finished 0/24
+Encoding 927:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:16<00:00, 16.41s/it]100%|██████████| 1/1 [00:16<00:00, 16.41s/it]
+Encoding 927: 100%|██████████| 1/1 [02:55<00:00, 175.80s/batch]Encoding 927: 100%|██████████| 1/1 [02:56<00:00, 176.09s/batch]
+927 processing complete, saved 24 features
+
+Start processing folder: 928
+928 | Finished 0/30
+Encoding 928:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:18<00:00, 18.84s/it]100%|██████████| 1/1 [00:18<00:00, 18.84s/it]
+Encoding 928: 100%|██████████| 1/1 [03:19<00:00, 199.24s/batch]Encoding 928: 100%|██████████| 1/1 [03:19<00:00, 199.60s/batch]
+928 processing complete, saved 30 features
+
+Start processing folder: 929
+929 | Finished 0/28
+Encoding 929:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:19<00:00, 19.98s/it]100%|██████████| 1/1 [00:19<00:00, 19.98s/it]
+Encoding 929: 100%|██████████| 1/1 [03:58<00:00, 238.49s/batch]Encoding 929: 100%|██████████| 1/1 [03:58<00:00, 238.84s/batch]
+929 processing complete, saved 28 features
+
+Start processing folder: 93
+93 | Finished 0/4
+Encoding 93:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.52s/it]100%|██████████| 1/1 [00:02<00:00,  2.52s/it]
+Encoding 93: 100%|██████████| 1/1 [00:36<00:00, 36.26s/batch]Encoding 93: 100%|██████████| 1/1 [00:36<00:00, 36.63s/batch]
+93 processing complete, saved 4 features
+
+Start processing folder: 930
+930 | Finished 0/19
+Encoding 930:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.23s/it]100%|██████████| 1/1 [00:12<00:00, 12.23s/it]
+Encoding 930: 100%|██████████| 1/1 [02:13<00:00, 133.12s/batch]Encoding 930: 100%|██████████| 1/1 [02:13<00:00, 133.45s/batch]
+930 processing complete, saved 19 features
+
+Start processing folder: 931
+931 | Finished 0/13
+Encoding 931:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:08<00:00,  8.70s/it]100%|██████████| 1/1 [00:08<00:00,  8.70s/it]
+Encoding 931: 100%|██████████| 1/1 [01:43<00:00, 103.16s/batch]Encoding 931: 100%|██████████| 1/1 [01:43<00:00, 103.46s/batch]
+931 processing complete, saved 13 features
+
+Start processing folder: 932
+932 | Finished 0/14
+Encoding 932:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:09<00:00,  9.02s/it]100%|██████████| 1/1 [00:09<00:00,  9.02s/it]
+Encoding 932: 100%|██████████| 1/1 [01:43<00:00, 103.15s/batch]Encoding 932: 100%|██████████| 1/1 [01:43<00:00, 103.41s/batch]
+932 processing complete, saved 14 features
+
+Start processing folder: 933
+933 | Finished 0/14
+Encoding 933:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:08<00:00,  8.73s/it]100%|██████████| 1/1 [00:08<00:00,  8.73s/it]
+Encoding 933: 100%|██████████| 1/1 [01:36<00:00, 96.98s/batch]Encoding 933: 100%|██████████| 1/1 [01:37<00:00, 97.26s/batch]
+933 processing complete, saved 14 features
+
+Start processing folder: 934
+934 | Finished 0/9
+Encoding 934:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:05<00:00,  5.23s/it]100%|██████████| 1/1 [00:05<00:00,  5.23s/it]
+Encoding 934: 100%|██████████| 1/1 [01:03<00:00, 63.83s/batch]Encoding 934: 100%|██████████| 1/1 [01:04<00:00, 64.10s/batch]
+934 processing complete, saved 9 features
+
+Start processing folder: 935
+935 | Finished 0/25
+Encoding 935:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:15<00:00, 15.96s/it]100%|██████████| 1/1 [00:15<00:00, 15.96s/it]
+Encoding 935: 100%|██████████| 1/1 [02:40<00:00, 160.64s/batch]Encoding 935: 100%|██████████| 1/1 [02:41<00:00, 161.03s/batch]
+935 processing complete, saved 25 features
+
+Start processing folder: 936
+936 | Finished 0/4
+Encoding 936:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.33s/it]100%|██████████| 1/1 [00:02<00:00,  2.33s/it]
+Encoding 936: 100%|██████████| 1/1 [00:34<00:00, 34.55s/batch]Encoding 936: 100%|██████████| 1/1 [00:34<00:00, 34.78s/batch]
+936 processing complete, saved 4 features
+
+Start processing folder: 937
+937 | Finished 0/14
+Encoding 937:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:09<00:00,  9.06s/it]100%|██████████| 1/1 [00:09<00:00,  9.06s/it]
+Encoding 937: 100%|██████████| 1/1 [01:43<00:00, 103.82s/batch]Encoding 937: 100%|██████████| 1/1 [01:44<00:00, 104.09s/batch]
+937 processing complete, saved 14 features
+
+Start processing folder: 938
+938 | Finished 0/4
+Encoding 938:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.33s/it]100%|██████████| 1/1 [00:02<00:00,  2.33s/it]
+Encoding 938: 100%|██████████| 1/1 [00:32<00:00, 33.00s/batch]Encoding 938: 100%|██████████| 1/1 [00:33<00:00, 33.20s/batch]
+938 processing complete, saved 4 features
+
+Start processing folder: 939
+939 | Finished 0/17
+Encoding 939:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.96s/it]100%|██████████| 1/1 [00:10<00:00, 10.96s/it]
+Encoding 939: 100%|██████████| 1/1 [02:01<00:00, 121.73s/batch]Encoding 939: 100%|██████████| 1/1 [02:02<00:00, 122.05s/batch]
+939 processing complete, saved 17 features
+
+Start processing folder: 94
+94 | Finished 0/6
+Encoding 94:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.79s/it]100%|██████████| 1/1 [00:03<00:00,  3.79s/it]
+Encoding 94: 100%|██████████| 1/1 [00:49<00:00, 49.78s/batch]Encoding 94: 100%|██████████| 1/1 [00:49<00:00, 50.00s/batch]
+94 processing complete, saved 6 features
+
+Start processing folder: 940
+940 | Finished 0/18
+Encoding 940:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.26s/it]100%|██████████| 1/1 [00:12<00:00, 12.26s/it]
+Encoding 940: 100%|██████████| 1/1 [02:12<00:00, 132.93s/batch]Encoding 940: 100%|██████████| 1/1 [02:13<00:00, 133.23s/batch]
+940 processing complete, saved 18 features
+
+Start processing folder: 941
+941 | Finished 0/31
+Encoding 941:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.13s/it]100%|██████████| 1/1 [00:21<00:00, 21.13s/it]
+Encoding 941: 100%|██████████| 1/1 [03:46<00:00, 226.67s/batch]Encoding 941: 100%|██████████| 1/1 [03:46<00:00, 226.97s/batch]
+941 processing complete, saved 31 features
+
+Start processing folder: 942
+942 | Finished 0/5
+Encoding 942:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.96s/it]100%|██████████| 1/1 [00:02<00:00,  2.96s/it]
+Encoding 942: 100%|██████████| 1/1 [00:39<00:00, 40.00s/batch]Encoding 942: 100%|██████████| 1/1 [00:40<00:00, 40.30s/batch]
+942 processing complete, saved 5 features
+
+Start processing folder: 943
+943 | Finished 0/5
+Encoding 943:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.98s/it]100%|██████████| 1/1 [00:02<00:00,  2.98s/it]
+Encoding 943: 100%|██████████| 1/1 [00:41<00:00, 41.76s/batch]Encoding 943: 100%|██████████| 1/1 [00:42<00:00, 42.06s/batch]
+943 processing complete, saved 5 features
+
+Start processing folder: 944
+944 | Finished 0/21
+Encoding 944:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:14<00:00, 14.48s/it]100%|██████████| 1/1 [00:14<00:00, 14.49s/it]
+Encoding 944: 100%|██████████| 1/1 [02:28<00:00, 148.35s/batch]Encoding 944: 100%|██████████| 1/1 [02:28<00:00, 148.64s/batch]
+944 processing complete, saved 21 features
+
+Start processing folder: 945
+945 | Finished 0/17
+Encoding 945:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.91s/it]100%|██████████| 1/1 [00:10<00:00, 10.91s/it]
+Encoding 945: 100%|██████████| 1/1 [02:05<00:00, 125.13s/batch]Encoding 945: 100%|██████████| 1/1 [02:05<00:00, 125.41s/batch]
+945 processing complete, saved 17 features
+
+Start processing folder: 946
+946 | Finished 0/8
+Encoding 946:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.94s/it]100%|██████████| 1/1 [00:04<00:00,  4.94s/it]
+Encoding 946: 100%|██████████| 1/1 [01:03<00:00, 63.18s/batch]Encoding 946: 100%|██████████| 1/1 [01:03<00:00, 63.43s/batch]
+946 processing complete, saved 8 features
+
+Start processing folder: 947
+947 | Finished 0/7
+Encoding 947:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.01s/it]100%|██████████| 1/1 [00:04<00:00,  4.01s/it]
+Encoding 947: 100%|██████████| 1/1 [00:51<00:00, 51.15s/batch]Encoding 947: 100%|██████████| 1/1 [00:51<00:00, 51.41s/batch]
+947 processing complete, saved 7 features
+
+Start processing folder: 948
+948 | Finished 0/16
+Encoding 948:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.38s/it]100%|██████████| 1/1 [00:10<00:00, 10.38s/it]
+Encoding 948: 100%|██████████| 1/1 [01:55<00:00, 115.03s/batch]Encoding 948: 100%|██████████| 1/1 [01:55<00:00, 115.27s/batch]
+948 processing complete, saved 16 features
+
+Start processing folder: 949
+949 | Finished 0/2
+Encoding 949:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.19s/it]100%|██████████| 1/1 [00:01<00:00,  1.19s/it]
+Encoding 949: 100%|██████████| 1/1 [00:17<00:00, 17.92s/batch]Encoding 949: 100%|██████████| 1/1 [00:18<00:00, 18.17s/batch]
+949 processing complete, saved 2 features
+
+Start processing folder: 95
+95 | Finished 0/6
+Encoding 95:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.52s/it]100%|██████████| 1/1 [00:03<00:00,  3.52s/it]
+Encoding 95: 100%|██████████| 1/1 [00:45<00:00, 45.81s/batch]Encoding 95: 100%|██████████| 1/1 [00:46<00:00, 46.10s/batch]
+95 processing complete, saved 6 features
+
+Start processing folder: 950
+950 | Finished 0/3
+Encoding 950:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.79s/it]100%|██████████| 1/1 [00:01<00:00,  1.79s/it]
+Encoding 950: 100%|██████████| 1/1 [00:27<00:00, 27.85s/batch]Encoding 950: 100%|██████████| 1/1 [00:28<00:00, 28.09s/batch]
+950 processing complete, saved 3 features
+
+Start processing folder: 951
+951 | Finished 0/16
+Encoding 951:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.22s/it]100%|██████████| 1/1 [00:10<00:00, 10.22s/it]
+Encoding 951: 100%|██████████| 1/1 [01:56<00:00, 116.83s/batch]Encoding 951: 100%|██████████| 1/1 [01:57<00:00, 117.08s/batch]
+951 processing complete, saved 16 features
+
+Start processing folder: 952
+952 | Finished 0/7
+Encoding 952:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.30s/it]100%|██████████| 1/1 [00:04<00:00,  4.30s/it]
+Encoding 952: 100%|██████████| 1/1 [00:56<00:00, 56.07s/batch]Encoding 952: 100%|██████████| 1/1 [00:56<00:00, 56.31s/batch]
+952 processing complete, saved 7 features
+
+Start processing folder: 953
+953 | Finished 0/6
+Encoding 953:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.75s/it]100%|██████████| 1/1 [00:03<00:00,  3.75s/it]
+Encoding 953: 100%|██████████| 1/1 [00:47<00:00, 47.73s/batch]Encoding 953: 100%|██████████| 1/1 [00:47<00:00, 47.99s/batch]
+953 processing complete, saved 6 features
+
+Start processing folder: 954
+954 | Finished 0/13
+Encoding 954:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:08<00:00,  8.44s/it]100%|██████████| 1/1 [00:08<00:00,  8.44s/it]
+Encoding 954: 100%|██████████| 1/1 [01:32<00:00, 92.96s/batch]Encoding 954: 100%|██████████| 1/1 [01:33<00:00, 93.21s/batch]
+954 processing complete, saved 13 features
+
+Start processing folder: 955
+955 | Finished 0/19
+Encoding 955:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.06s/it]100%|██████████| 1/1 [00:12<00:00, 12.06s/it]
+Encoding 955: 100%|██████████| 1/1 [02:10<00:00, 130.86s/batch]Encoding 955: 100%|██████████| 1/1 [02:11<00:00, 131.13s/batch]
+955 processing complete, saved 19 features
+
+Start processing folder: 956
+956 | Finished 0/19
+Encoding 956:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.80s/it]100%|██████████| 1/1 [00:12<00:00, 12.80s/it]
+Encoding 956: 100%|██████████| 1/1 [02:27<00:00, 147.01s/batch]Encoding 956: 100%|██████████| 1/1 [02:27<00:00, 147.29s/batch]
+956 processing complete, saved 19 features
+
+Start processing folder: 957
+957 | Finished 0/6
+Encoding 957:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.68s/it]100%|██████████| 1/1 [00:03<00:00,  3.68s/it]
+Encoding 957: 100%|██████████| 1/1 [00:46<00:00, 46.54s/batch]Encoding 957: 100%|██████████| 1/1 [00:46<00:00, 46.81s/batch]
+957 processing complete, saved 6 features
+
+Start processing folder: 958
+958 | Finished 0/28
+Encoding 958:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:19<00:00, 19.72s/it]100%|██████████| 1/1 [00:19<00:00, 19.72s/it]
+Encoding 958: 100%|██████████| 1/1 [03:32<00:00, 213.00s/batch]Encoding 958: 100%|██████████| 1/1 [03:33<00:00, 213.28s/batch]
+958 processing complete, saved 28 features
+
+Start processing folder: 959
+959 | Finished 0/16
+Encoding 959:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.09s/it]100%|██████████| 1/1 [00:10<00:00, 10.09s/it]
+Encoding 959: 100%|██████████| 1/1 [01:55<00:00, 115.17s/batch]Encoding 959: 100%|██████████| 1/1 [01:55<00:00, 115.54s/batch]
+959 processing complete, saved 16 features
+
+Start processing folder: 96
+96 | Finished 0/5
+Encoding 96:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.06s/it]100%|██████████| 1/1 [00:03<00:00,  3.06s/it]
+Encoding 96: 100%|██████████| 1/1 [00:41<00:00, 41.68s/batch]Encoding 96: 100%|██████████| 1/1 [00:41<00:00, 42.00s/batch]
+96 processing complete, saved 5 features
+
+Start processing folder: 960
+960 | Finished 0/6
+Encoding 960:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.67s/it]100%|██████████| 1/1 [00:03<00:00,  3.67s/it]
+Encoding 960: 100%|██████████| 1/1 [00:47<00:00, 47.18s/batch]Encoding 960: 100%|██████████| 1/1 [00:47<00:00, 47.41s/batch]
+960 processing complete, saved 6 features
+
+Start processing folder: 961
+961 | Finished 0/11
+Encoding 961:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:06<00:00,  6.98s/it]100%|██████████| 1/1 [00:06<00:00,  6.98s/it]
+Encoding 961: 100%|██████████| 1/1 [01:24<00:00, 84.48s/batch]Encoding 961: 100%|██████████| 1/1 [01:24<00:00, 84.71s/batch]
+961 processing complete, saved 11 features
+
+Start processing folder: 962
+962 | Finished 0/18
+Encoding 962:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.59s/it]100%|██████████| 1/1 [00:12<00:00, 12.59s/it]
+Encoding 962: 100%|██████████| 1/1 [02:17<00:00, 137.19s/batch]Encoding 962: 100%|██████████| 1/1 [02:17<00:00, 137.53s/batch]
+962 processing complete, saved 18 features
+
+Start processing folder: 963
+963 | Finished 0/15
+Encoding 963:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:09<00:00,  9.51s/it]100%|██████████| 1/1 [00:09<00:00,  9.51s/it]
+Encoding 963: 100%|██████████| 1/1 [01:49<00:00, 109.65s/batch]Encoding 963: 100%|██████████| 1/1 [01:49<00:00, 109.91s/batch]
+963 processing complete, saved 15 features
+
+Start processing folder: 964
+964 | Finished 0/14
+Encoding 964:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:09<00:00,  9.37s/it]100%|██████████| 1/1 [00:09<00:00,  9.37s/it]
+Encoding 964: 100%|██████████| 1/1 [01:48<00:00, 108.72s/batch]Encoding 964: 100%|██████████| 1/1 [01:49<00:00, 109.02s/batch]
+964 processing complete, saved 14 features
+
+Start processing folder: 965
+965 | Finished 0/14
+Encoding 965:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:09<00:00,  9.21s/it]100%|██████████| 1/1 [00:09<00:00,  9.21s/it]
+Encoding 965: 100%|██████████| 1/1 [01:48<00:00, 108.09s/batch]Encoding 965: 100%|██████████| 1/1 [01:48<00:00, 108.37s/batch]
+965 processing complete, saved 14 features
+
+Start processing folder: 966
+966 | Finished 0/23
+Encoding 966:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:15<00:00, 15.98s/it]100%|██████████| 1/1 [00:15<00:00, 15.98s/it]
+Encoding 966: 100%|██████████| 1/1 [02:34<00:00, 154.41s/batch]Encoding 966: 100%|██████████| 1/1 [02:34<00:00, 154.71s/batch]
+966 processing complete, saved 23 features
+
+Start processing folder: 967
+967 | Finished 0/18
+Encoding 967:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:11<00:00, 11.66s/it]100%|██████████| 1/1 [00:11<00:00, 11.66s/it]
+Encoding 967: 100%|██████████| 1/1 [02:12<00:00, 132.64s/batch]Encoding 967: 100%|██████████| 1/1 [02:12<00:00, 132.96s/batch]
+967 processing complete, saved 18 features
+
+Start processing folder: 968
+968 | Finished 0/14
+Encoding 968:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:09<00:00,  9.17s/it]100%|██████████| 1/1 [00:09<00:00,  9.17s/it]
+Encoding 968: 100%|██████████| 1/1 [01:38<00:00, 98.02s/batch]Encoding 968: 100%|██████████| 1/1 [01:38<00:00, 98.35s/batch]
+968 processing complete, saved 14 features
+
+Start processing folder: 969
+969 | Finished 0/21
+Encoding 969:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:14<00:00, 14.15s/it]100%|██████████| 1/1 [00:14<00:00, 14.15s/it]
+Encoding 969: 100%|██████████| 1/1 [02:29<00:00, 149.49s/batch]Encoding 969: 100%|██████████| 1/1 [02:29<00:00, 149.75s/batch]
+969 processing complete, saved 21 features
+
+Start processing folder: 97
+97 | Finished 0/5
+Encoding 97:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.02s/it]100%|██████████| 1/1 [00:03<00:00,  3.02s/it]
+Encoding 97: 100%|██████████| 1/1 [00:43<00:00, 43.44s/batch]Encoding 97: 100%|██████████| 1/1 [00:43<00:00, 43.69s/batch]
+97 processing complete, saved 5 features
+
+Start processing folder: 970
+970 | Finished 0/26
+Encoding 970:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:17<00:00, 17.97s/it]100%|██████████| 1/1 [00:17<00:00, 17.97s/it]
+Encoding 970: 100%|██████████| 1/1 [03:13<00:00, 193.59s/batch]Encoding 970: 100%|██████████| 1/1 [03:13<00:00, 193.93s/batch]
+970 processing complete, saved 26 features
+
+Start processing folder: 971
+971 | Finished 0/21
+Encoding 971:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:13<00:00, 13.53s/it]100%|██████████| 1/1 [00:13<00:00, 13.53s/it]
+Encoding 971: 100%|██████████| 1/1 [02:29<00:00, 149.51s/batch]Encoding 971: 100%|██████████| 1/1 [02:29<00:00, 149.82s/batch]
+971 processing complete, saved 21 features
+
+Start processing folder: 972
+972 | Finished 0/40
+Encoding 972:   0%|          | 0/2 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:19<00:00, 19.59s/it]100%|██████████| 1/1 [00:19<00:00, 19.59s/it]
+Encoding 972:  50%|█████     | 1/2 [03:10<03:10, 190.00s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.38s/it]100%|██████████| 1/1 [00:04<00:00,  4.38s/it]
+Encoding 972: 100%|██████████| 2/2 [03:58<00:00, 107.05s/batch]Encoding 972: 100%|██████████| 2/2 [03:59<00:00, 119.70s/batch]
+972 processing complete, saved 40 features
+
+Start processing folder: 973
+973 | Finished 0/22
+Encoding 973:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:15<00:00, 15.26s/it]100%|██████████| 1/1 [00:15<00:00, 15.26s/it]
+Encoding 973: 100%|██████████| 1/1 [02:42<00:00, 162.35s/batch]Encoding 973: 100%|██████████| 1/1 [02:42<00:00, 162.69s/batch]
+973 processing complete, saved 22 features
+
+Start processing folder: 974
+974 | Finished 0/11
+Encoding 974:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:07<00:00,  7.01s/it]100%|██████████| 1/1 [00:07<00:00,  7.01s/it]
+Encoding 974: 100%|██████████| 1/1 [01:27<00:00, 87.37s/batch]Encoding 974: 100%|██████████| 1/1 [01:27<00:00, 87.64s/batch]
+974 processing complete, saved 11 features
+
+Start processing folder: 975
+975 | Finished 0/19
+Encoding 975:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.41s/it]100%|██████████| 1/1 [00:12<00:00, 12.41s/it]
+Encoding 975: 100%|██████████| 1/1 [02:14<00:00, 134.38s/batch]Encoding 975: 100%|██████████| 1/1 [02:14<00:00, 134.66s/batch]
+975 processing complete, saved 19 features
+
+Start processing folder: 976
+976 | Finished 0/19
+Encoding 976:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.56s/it]100%|██████████| 1/1 [00:12<00:00, 12.56s/it]
+Encoding 976: 100%|██████████| 1/1 [02:17<00:00, 137.39s/batch]Encoding 976: 100%|██████████| 1/1 [02:17<00:00, 137.70s/batch]
+976 processing complete, saved 19 features
+
+Start processing folder: 977
+977 | Finished 0/9
+Encoding 977:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:05<00:00,  5.27s/it]100%|██████████| 1/1 [00:05<00:00,  5.27s/it]
+Encoding 977: 100%|██████████| 1/1 [01:05<00:00, 65.42s/batch]Encoding 977: 100%|██████████| 1/1 [01:05<00:00, 65.68s/batch]
+977 processing complete, saved 9 features
+
+Start processing folder: 978
+978 | Finished 0/14
+Encoding 978:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:08<00:00,  8.69s/it]100%|██████████| 1/1 [00:08<00:00,  8.70s/it]
+Encoding 978: 100%|██████████| 1/1 [01:39<00:00, 99.10s/batch]Encoding 978: 100%|██████████| 1/1 [01:39<00:00, 99.34s/batch]
+978 processing complete, saved 14 features
+
+Start processing folder: 979
+979 | Finished 0/29
+Encoding 979:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:20<00:00, 20.14s/it]100%|██████████| 1/1 [00:20<00:00, 20.14s/it]
+Encoding 979: 100%|██████████| 1/1 [03:38<00:00, 218.72s/batch]Encoding 979: 100%|██████████| 1/1 [03:39<00:00, 219.05s/batch]
+979 processing complete, saved 29 features
+
+Start processing folder: 98
+98 | Finished 0/81
+Encoding 98:   0%|          | 0/3 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.87s/it]100%|██████████| 1/1 [00:21<00:00, 21.87s/it]
+Encoding 98:  33%|███▎      | 1/3 [03:12<06:24, 192.33s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.17s/it]100%|██████████| 1/1 [00:21<00:00, 21.17s/it]
+Encoding 98:  67%|██████▋   | 2/3 [06:22<03:10, 190.92s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:09<00:00,  9.20s/it]100%|██████████| 1/1 [00:09<00:00,  9.20s/it]
+Encoding 98: 100%|██████████| 3/3 [07:49<00:00, 143.48s/batch]Encoding 98: 100%|██████████| 3/3 [07:49<00:00, 156.57s/batch]
+98 processing complete, saved 81 features
+
+Start processing folder: 980
+980 | Finished 0/28
+Encoding 980:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:19<00:00, 19.54s/it]100%|██████████| 1/1 [00:19<00:00, 19.55s/it]
+Encoding 980: 100%|██████████| 1/1 [03:18<00:00, 198.97s/batch]Encoding 980: 100%|██████████| 1/1 [03:19<00:00, 199.32s/batch]
+980 processing complete, saved 28 features
+
+Start processing folder: 981
+981 | Finished 0/16
+Encoding 981:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.55s/it]100%|██████████| 1/1 [00:10<00:00, 10.55s/it]
+Encoding 981: 100%|██████████| 1/1 [02:00<00:00, 120.72s/batch]Encoding 981: 100%|██████████| 1/1 [02:01<00:00, 121.04s/batch]
+981 processing complete, saved 16 features
+
+Start processing folder: 982
+982 | Finished 0/16
+Encoding 982:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.24s/it]100%|██████████| 1/1 [00:10<00:00, 10.24s/it]
+Encoding 982: 100%|██████████| 1/1 [02:04<00:00, 124.57s/batch]Encoding 982: 100%|██████████| 1/1 [02:04<00:00, 124.89s/batch]
+982 processing complete, saved 16 features
+
+Start processing folder: 983
+983 | Finished 0/34
+Encoding 983:   0%|          | 0/2 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:20<00:00, 20.11s/it]100%|██████████| 1/1 [00:20<00:00, 20.11s/it]
+Encoding 983:  50%|█████     | 1/2 [03:16<03:16, 196.87s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:01<00:00,  1.25s/it]100%|██████████| 1/1 [00:01<00:00,  1.25s/it]
+Encoding 983: 100%|██████████| 2/2 [03:33<00:00, 91.01s/batch] Encoding 983: 100%|██████████| 2/2 [03:34<00:00, 107.09s/batch]
+983 processing complete, saved 34 features
+
+Start processing folder: 984
+984 | Finished 0/25
+Encoding 984:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:17<00:00, 17.62s/it]100%|██████████| 1/1 [00:17<00:00, 17.62s/it]
+Encoding 984: 100%|██████████| 1/1 [03:09<00:00, 189.28s/batch]Encoding 984: 100%|██████████| 1/1 [03:09<00:00, 189.56s/batch]
+984 processing complete, saved 25 features
+
+Start processing folder: 985
+985 | Finished 0/7
+Encoding 985:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.53s/it]100%|██████████| 1/1 [00:04<00:00,  4.53s/it]
+Encoding 985: 100%|██████████| 1/1 [00:56<00:00, 56.41s/batch]Encoding 985: 100%|██████████| 1/1 [00:56<00:00, 56.69s/batch]
+985 processing complete, saved 7 features
+
+Start processing folder: 986
+986 | Finished 0/29
+Encoding 986:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:19<00:00, 19.91s/it]100%|██████████| 1/1 [00:19<00:00, 19.91s/it]
+Encoding 986: 100%|██████████| 1/1 [03:28<00:00, 209.00s/batch]Encoding 986: 100%|██████████| 1/1 [03:29<00:00, 209.32s/batch]
+986 processing complete, saved 29 features
+
+Start processing folder: 987
+987 | Finished 0/26
+Encoding 987:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:17<00:00, 17.56s/it]100%|██████████| 1/1 [00:17<00:00, 17.56s/it]
+Encoding 987: 100%|██████████| 1/1 [03:12<00:00, 192.64s/batch]Encoding 987: 100%|██████████| 1/1 [03:13<00:00, 193.02s/batch]
+987 processing complete, saved 26 features
+
+Start processing folder: 988
+988 | Finished 0/16
+Encoding 988:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:09<00:00,  9.99s/it]100%|██████████| 1/1 [00:09<00:00,  9.99s/it]
+Encoding 988: 100%|██████████| 1/1 [01:59<00:00, 119.69s/batch]Encoding 988: 100%|██████████| 1/1 [02:00<00:00, 120.07s/batch]
+988 processing complete, saved 16 features
+
+Start processing folder: 989
+989 | Finished 0/25
+Encoding 989:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:16<00:00, 16.66s/it]100%|██████████| 1/1 [00:16<00:00, 16.66s/it]
+Encoding 989: 100%|██████████| 1/1 [03:07<00:00, 187.67s/batch]Encoding 989: 100%|██████████| 1/1 [03:08<00:00, 188.06s/batch]
+989 processing complete, saved 25 features
+
+Start processing folder: 99
+99 | Finished 0/5
+Encoding 99:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:03<00:00,  3.24s/it]100%|██████████| 1/1 [00:03<00:00,  3.24s/it]
+Encoding 99: 100%|██████████| 1/1 [00:44<00:00, 44.97s/batch]Encoding 99: 100%|██████████| 1/1 [00:45<00:00, 45.33s/batch]
+99 processing complete, saved 5 features
+
+Start processing folder: 990
+990 | Finished 0/22
+Encoding 990:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:15<00:00, 15.31s/it]100%|██████████| 1/1 [00:15<00:00, 15.31s/it]
+Encoding 990: 100%|██████████| 1/1 [02:54<00:00, 174.93s/batch]Encoding 990: 100%|██████████| 1/1 [02:55<00:00, 175.25s/batch]
+990 processing complete, saved 22 features
+
+Start processing folder: 991
+991 | Finished 0/37
+Encoding 991:   0%|          | 0/2 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.40s/it]100%|██████████| 1/1 [00:22<00:00, 22.40s/it]
+Encoding 991:  50%|█████     | 1/2 [03:56<03:56, 236.07s/batch]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:02<00:00,  2.97s/it]100%|██████████| 1/1 [00:02<00:00,  2.97s/it]
+Encoding 991: 100%|██████████| 2/2 [04:32<00:00, 118.59s/batch]Encoding 991: 100%|██████████| 2/2 [04:32<00:00, 136.35s/batch]
+991 processing complete, saved 37 features
+
+Start processing folder: 992
+992 | Finished 0/29
+Encoding 992:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:20<00:00, 20.17s/it]100%|██████████| 1/1 [00:20<00:00, 20.17s/it]
+Encoding 992: 100%|██████████| 1/1 [03:31<00:00, 211.61s/batch]Encoding 992: 100%|██████████| 1/1 [03:31<00:00, 211.96s/batch]
+992 processing complete, saved 29 features
+
+Start processing folder: 993
+993 | Finished 0/7
+Encoding 993:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:04<00:00,  4.27s/it]100%|██████████| 1/1 [00:04<00:00,  4.27s/it]
+Encoding 993: 100%|██████████| 1/1 [00:50<00:00, 50.60s/batch]Encoding 993: 100%|██████████| 1/1 [00:50<00:00, 50.91s/batch]
+993 processing complete, saved 7 features
+
+Start processing folder: 994
+994 | Finished 0/14
+Encoding 994:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:09<00:00,  9.19s/it]100%|██████████| 1/1 [00:09<00:00,  9.19s/it]
+Encoding 994: 100%|██████████| 1/1 [01:51<00:00, 111.72s/batch]Encoding 994: 100%|██████████| 1/1 [01:51<00:00, 111.98s/batch]
+994 processing complete, saved 14 features
+
+Start processing folder: 995
+995 | Finished 0/20
+Encoding 995:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:12<00:00, 12.82s/it]100%|██████████| 1/1 [00:12<00:00, 12.82s/it]
+Encoding 995: 100%|██████████| 1/1 [02:20<00:00, 140.69s/batch]Encoding 995: 100%|██████████| 1/1 [02:21<00:00, 141.06s/batch]
+995 processing complete, saved 20 features
+
+Start processing folder: 996
+996 | Finished 0/18
+Encoding 996:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:11<00:00, 11.17s/it]100%|██████████| 1/1 [00:11<00:00, 11.17s/it]
+Encoding 996: 100%|██████████| 1/1 [02:02<00:00, 122.20s/batch]Encoding 996: 100%|██████████| 1/1 [02:02<00:00, 122.50s/batch]
+996 processing complete, saved 18 features
+
+Start processing folder: 997
+997 | Finished 0/17
+Encoding 997:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:11<00:00, 11.39s/it]100%|██████████| 1/1 [00:11<00:00, 11.39s/it]
+Encoding 997: 100%|██████████| 1/1 [02:05<00:00, 125.64s/batch]Encoding 997: 100%|██████████| 1/1 [02:05<00:00, 125.95s/batch]
+997 processing complete, saved 17 features
+
+Start processing folder: 998
+998 | Finished 0/16
+Encoding 998:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:10<00:00, 10.29s/it]100%|██████████| 1/1 [00:10<00:00, 10.29s/it]
+Encoding 998: 100%|██████████| 1/1 [01:54<00:00, 114.63s/batch]Encoding 998: 100%|██████████| 1/1 [01:54<00:00, 114.96s/batch]
+998 processing complete, saved 16 features
+
+Start processing folder: 999
+999 | Finished 0/23
+Encoding 999:   0%|          | 0/1 [00:00<?, ?batch/s]  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:15<00:00, 15.38s/it]100%|██████████| 1/1 [00:15<00:00, 15.38s/it]
+Encoding 999: 100%|██████████| 1/1 [02:50<00:00, 170.65s/batch]Encoding 999: 100%|██████████| 1/1 [02:50<00:00, 170.96s/batch]
+999 processing complete, saved 23 features
